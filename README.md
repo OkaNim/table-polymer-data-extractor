@@ -1,14 +1,14 @@
 # table-polymer-data-extractor
 
 
-# Requirements
-[Merlin](https://github.com/hshindo/Merlin.jl) ver 0.0.0
+## Requirements
+[Merlin](https://github.com/hshindo/Merlin.jl)
 
 
-# How to use (command lines)
+## How to use (command lines)
 #### Polymer name annotation
 python 151_01_pnameBIES.py <input dir><br>
-
+<br>
 #### Extraction of polymer data from table
 python 152_01_xml.py [input dir (including .xml)]<br>
 python 152_02_format-table-triple.py [input dir (including .tsv)]<br>
@@ -17,5 +17,5 @@ python 152_04_property-specifier-identify.py [input dir (including .polymer.bioe
 python 152_05_table-data-extract.py [input dir (including _all.dat)]<br>
 
 
-# References
+## References
 
