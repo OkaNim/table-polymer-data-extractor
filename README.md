@@ -6,14 +6,18 @@ Merlin=0.0.0
 
 
 # How to use
-(polymer name annotation)<br>
-python 151_01_pnameBIES_201210_C.py <input dir>
+(Polymer name annotation)  
+python 151_01_pnameBIES.py <input dir>  
 
 <br>
-(extraction of polymer data in table)<br>
-python 152_01_xml_201210_B.py <input dir>
-
-
+(Extraction of polymer data from table)  
+python 152_01_xml.py <input dir><br>
+python 152_02_format-table-triple.py <input dir><br>
+julia 152_03_Merlin-predict.jl <input filename> <output filename><br>
+python 152_04_property-specifier-identify.py <input dir><br>
+python 152_05_table-data-extract.py <input dir><br>
+<br>
+<br>
 # References
 Merlin
 https://github.com/hshindo/Merlin.jl
