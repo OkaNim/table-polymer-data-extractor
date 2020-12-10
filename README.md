@@ -2,7 +2,7 @@
 
 
 # Requirements
-Merlin=0.0.0
+[Merlin](https://github.com/hshindo/Merlin.jl) ver 0.0.0
 
 
 # How to use
@@ -19,4 +19,4 @@ python 152_05_table-data-extract.py [input dir (including _all.dat)]<br>
 
 
 # References
-[Merlin](https://github.com/hshindo/Merlin.jl)
+
