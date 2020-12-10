@@ -7,8 +7,7 @@
 
 ## How to use (command lines)
 #### Polymer name annotation
-python 151_01_pnameBIES.py <input dir><br>
-<br>
+python 151_01_pnameBIES.py [input dir (including .tok)]<br>
 #### Extraction of polymer data from table
 python 152_01_xml.py [input dir (including .xml)]<br>
 python 152_02_format-table-triple.py [input dir (including .tsv)]<br>
