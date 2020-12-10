@@ -6,11 +6,11 @@
 
 
 # How to use (command lines)
-## Polymer name annotation  
+###Polymer name annotation###<br>
 python 151_01_pnameBIES.py <input dir><br>
 <br>
 <br>
-## Extraction of polymer data from table
+###Extraction of polymer data from table###<br>
 python 152_01_xml.py [input dir (including .xml)]<br>
 python 152_02_format-table-triple.py [input dir (including .tsv)]<br>
 julia 152_03_Merlin-predict.jl [input filename] [output filename]<br>
