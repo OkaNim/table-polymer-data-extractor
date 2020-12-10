@@ -6,10 +6,11 @@ Merlin=0.0.0
 
 
 # How to use
-(polymer name annotation)
+(polymer name annotation)<br>
 python 151_01_pnameBIES_201210_C.py <input dir>
 
-(extraction of polymer data in table)
+<br>
+(extraction of polymer data in table)<br>
 python 152_01_xml_201210_B.py <input dir>
 
 
