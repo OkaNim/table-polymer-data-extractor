@@ -2,6 +2,8 @@
 
 
 ## Requirements
+[PDFBox](https://pdfbox.apache.org/)(pdfbox-app-2.0.20.jar)<br>
+
 [Merlin](https://github.com/hshindo/Merlin.jl)
 
 
