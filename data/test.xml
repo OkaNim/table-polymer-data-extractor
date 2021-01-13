@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ce:table>
+<label>
+Table 1
+</label>
+<caption>
+<p>
+Table for exraction test.
+</p>
+</caption>
+<tgroup cols="4">
+<thead>
+<row>
+<entry/>
+<entry>
+Tg (°C)
+</entry>
+<entry>
+Tm (°C)
+</entry>
+<entry>
+Td (°C)
+</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>
+poly(1)
+</entry>
+<entry>
+100
+</entry>
+<entry>
+200
+</entry>
+<entry>
+300
+</entry>
+</row>
+<row>
+<entry>
+poly(2)
+</entry>
+<entry>
+110
+</entry>
+<entry>
+210
+</entry>
+<entry>
+310
+</entry>
+</row>
+<row>
+<entry>
+poly(3)
+</entry>
+<entry>
+120
+</entry>
+<entry>
+220
+</entry>
+<entry>
+330
+</entry>
+</row>
+</tbody>
+</tgroup>
+</ce:table>

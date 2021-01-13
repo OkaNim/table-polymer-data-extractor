@@ -1,0 +1,8 @@
+thead=1, multi_col=0, multi_row=0, merged=0
+Table 1
+Table for exraction test.
+non	Tg (°C)	Tm (°C)	Td (°C)
+poly(1)	100	200	300
+poly(2)	110	210	310
+poly(3)	120	220	330
+(Footnote) non

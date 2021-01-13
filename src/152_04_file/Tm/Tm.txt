@@ -1,0 +1,15 @@
+elt temp	Tm
+elt Temp	Tm
+elting p	Tm
+elting temp	Tm
+emperature of melt	Tm
+Fusion in the	Tm
+reezing p	Tm
+Tfus	Tm
+Tm	Tm
+TM (°C)	Tm
+TM (K)	Tm
+TM (PA11)	Tm
+TM (TPU)	Tm
+TMc (°C)	Tm
+TMp (°C)	Tm

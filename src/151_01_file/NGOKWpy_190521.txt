@@ -1,0 +1,329 @@
+0_NG_PVA_etc	1_NG_poly()	2_OK_doped_etc	3_OK	4_OK_PP_etc	5_OK_copolymer_plastic_resin
+.*B3LYP.*	.*polymer.*	.+.ed	polyethylene oxide	PA[0-9]*	acrylonitrile-butadiene
+PDI	polyadd.*	.+ied	polyethylene terephthalate	PB[0-9]*	acrylonitrile-butadiene-acrylate
+ATRP.*	polyceramic.*	.*cyclic	polymethyl methacrylate	PC[0-9]*	acrylonitrile-butadiene-styrene
+COPOLYME.*	.*polyconde.*	commercial	polyvinyl acetate	PE[0-9]*	acrylonitrile-chlorinated polyethylene-styrene
+EXPERI.*	polydisp.*	pure	polyvinyl alcohol	PI[0-9]*	acrylonitrile-(ethylene-propylene-diene)-styrene
+[0-9]*kPa	polyelec.*	pristine	polyvinyl chloride	PP[0-9]*	acrylonitrile-methyl methacrylate
+[0-9]*MPa	polyion.*	biodegradable	polyvinylidene chloride	PS[0-9]*	acrylonitrile-styrene-acrylate
+[0-9]*GPa	.*polymeriz.*	isotactic	polyvinylidene fluoride	ABA[0-9]*	cycloolefin
+CP.*	polymole.*	syndiotactic	polyvinyl fluoride	ABAK	ethylene-acrylic acid
+APS	polymorphi.*	atactic	polyacrylic acid	ABS	ethylene-butyl acrylate
+OPL.*	polynucl.*		polyaryl amide	AEPDS	ethylene-ethyl acrylate
+PHOTO-CROSSLINKED	polypept.*		polybutyl acrylate	AMMA	ethylene-methacrylic acid
+.*POLYM.*	polyphase		polybutylene naphthalate	ASA	ethylen-propylene
+SPIE	polyphosphor.*		polybutylene terephthalate	COC	ethylene-tetrafluoroethylene
+.*APPEND.*	polyrecom.*		polycyclohexylene dimethylene terephthalate	EAA	ethylene-vinyl acetate
+PIZARRO	polysome		polydiallyl phthalate	EBA	ethylene-vinyl alcohol
+N-PhMI.*	polym		polyethylene naphthalate	EBAK	perfluoro(ethylene-propylene)
+NPhMI.*	polyblen.*		polyphenylene ether	EEAK	methyl methacrylate-acrylonitrile-butadiene-styrene
+LPR	polychelat.*		polypropylene oxide	EMA	methyl methacrylate-butadiene-styrene
+BPO	polystyrene-calibrated		polyphenylene sulfide	E/P	styrene-acrylonitrile
+POS	.*polyacid.*		polyphenylene sulfone	ETFE	styrene-butadiene
+TBAP	polyene.*		polytrimethylene terephthalate	EVA	styrene-maleic anhydride
+DCp.*	polysaccharide.*		polyvinyl butyral	EVOH	styrene-alpha-methylstyrene
+pH.*	polyolefin.*		polyvinyl formal	FEP	ethylene-vinyl chloride
+.*DFP	biopolyester.*		cellulose acetate	MABS	vinyl chloride-ethylene-methyl acrylate
+NMP.*	polynomial		cellulose acetate butylate	MBS	vinyl chloride-ethylene-vinyl acetate
+VSP	polyhedral		cellulose acetate propionate	SAN	vinyl chloride-methyl acrylate
+PL-EMD	polyscience		cellulose formaldehyde	SBR	vinyl chloride-methyl methacrylate
+Rep.	polymsci		carboxymethyl cellulose	SMA	vinyl chloride-octyl acrylate
+HRP	polym.		cellulose nitrate	SMAH	vinyl chloride-vinyl acetate
+Epa.*	polystyrene-ionic		ethyl cellulose	SMS	vinyl chloride-vinylidene chloride
+.*TSPc	polyphasic		methyl cellulose	VCE	cresol-formaldehyde
+.*PO4	Photopolym		PHBdiol	VCEMAK	casein-formaldehyde
+PdCl2	Polym.Prepr.		PHB-diol	VCEVAC	epoxy
+DCP			Nafion	VCMAK	furan-formaldehyde
+PRESS.*			Cellulose	VCMMA	melamine-formaldehyde
+SPE.*			cellulose	VCOAK	melamine-phenol-formaldehyde
+JCPDS			Chitin	VCVAC	phenol-formaldehyde
+GNPs			chitin	VCVDC	perfluoroalkoxylalkane
+hP2.*			Chitosan	CSF	urea-formaldehyde
+IMP.*			chitosan	MPF	unsaturated polyester
+LESPINASSE				PFA	vinyl ester
+XchP2				CAB	
+DMAP				CAP	
+GVOP/3				CEF	
+JSPS				CMC	
+PolymPhys				CTA	
+POH					
+CAPACITY					
+AMORPHOUS					
+.*PF6					
+PREPARATION					
+ROP					
+TOPPARE2					
+P-.					
+.-P					
+ECOPOL					
+M4VP					
+GPO					
+XPS					
+Pd/C					
+Pt/C					
+PREPARATION					
+CIRPAN					
+EMPART					
+TOPAS					
+OPTICALLY					
+GIUSEPPE					
+C[0-9]*H[0-9]*.*P.*					
+N[0-9]*O[0-9]*P.*					
+RTESPE7					
+PBS					
+L-Phe					
+Phe					
+R-Phe					
+FFPA					
+PAPER					
+TJTTP-OECF					
+MORPHOLOGY					
+STEPHAN					
+.*type.*					
+DHEXP					
+MSP					
+PJF					
+NANOPARTICLES					
+APPLIED					
+PHYSICS					
+PROCEDURE					
+CO2					
+SORPTION					
+P					
+PhD					
+CRYSTALLOGRAPHY					
+REPORTS					
+SUPRAMOLECULAR					
+CRYSTALLOGRAPHY					
+ICP					
+31P-NMR					
+SORPTION					
+ABSORPTION					
+PAPER					
+GPC					
+[0-9]*m/Pa					
+POLYTECHNIC					
+PUBLICATIONS					
+PROFILE					
+PANG					
+EXPANSION					
+POSS					
+PFG-NMR					
+ROMP					
+PbTiO3					
+BaTiO3P					
+eXPRESS					
+TEMPO					
+HFIP					
+PTSA					
+PDI					
+PDIs					
+PHOTO-CROSSLINKED					
+SPIE					
+PIZARRO					
+LPR					
+BPO					
+POS					
+TBAP					
+NMP					
+VSP					
+Rep.					
+HRP					
+PO4					
+PdCl2					
+DCP					
+PRESS					
+JCPDS					
+GNPs					
+LESPINASSE					
+XchP2					
+DMAP					
+GVOP/3					
+JSPS					
+PolymPhys					
+POH					
+CAPACITY					
+AMORPHOUS					
+PREPARATION					
+ROP					
+TOPPARE2					
+ECOPOL					
+M4VP					
+GPO					
+XPS					
+XPS-PI					
+XPCS					
+Pd/C					
+Pt/C					
+PREPARATION					
+CIRPAN					
+EMPART					
+TOPAS					
+OPTICALLY					
+GIUSEPPE					
+RTESPE7					
+PBS					
+L-Phe					
+Phe					
+R-Phe					
+FFPA					
+PAPER					
+TJTTP-OECF					
+MORPHOLOGY					
+STEPHAN					
+DHEXP					
+MSP					
+PJF					
+NANOPARTICLES					
+APPLIED					
+PHYSICS					
+PROCEDURE					
+CO2					
+SORPTION					
+P					
+PhD					
+CRYSTALLOGRAPHY					
+REPORTS					
+SUPRAMOLECULAR					
+CRYSTALLOGRAPHY					
+ICP					
+31P-NMR					
+SORPTION					
+ABSORPTION					
+PAPER					
+POLYTECHNIC					
+PUBLICATIONS					
+PROFILE					
+PANG					
+EXPANSION					
+POSS					
+PFG-NMR					
+ROMP					
+PbTiO3					
+BaTiO3P					
+eXPRESS					
+HFIP					
+PTSA					
+TEMPO					
+TEMPO-NH2					
+TEMPOnium					
+Cp3Ln					
+SPS-800					
+BCP					
+DPX-300					
+DPX-400					
+PIL					
+PILs					
+CPDB					
+PF6					
+NH4PF6					
+Bu4NPF6					
+TBAPF6					
+PCBM					
+PC70BM					
+PC71BM					
+HPLC					
+NCOP					
+CPCB					
+TIPS					
+TPE-NC					
+CPO					
+DIPEA					
+DEAP					
+DMPA					
+t-Bu-P4					
+PhMA					
+APCN					
+NP					
+NPs					
+NIPAM					
+GPCMax					
+COMPACT					
+C60					
+TIPA					
+NVP					
+AuPPh3Cl					
+TBHP					
+KPS					
+APS					
+DPE					
+GPC					
+GPC-MALS					
+GPC-MLLS					
+GPC-MALLS					
+GPCLS					
+GPC-LS					
+HT-GPC					
+PL-GPC					
+DCP					
+DCNP					
+TPMA					
+VPO					
+CPDB					
+AlPc					
+EPR					
+EPR-EMX					
+NMEP					
+CAN					
+DPM					
+DPM-K					
+TPM-K					
+PL					
+PL-EMD					
+CPL					
+ICP					
+DAP					
+Az-DAP					
+APTES					
+mCPBA					
+m-CPBA					
+MCPBA					
+4VP					
+ZnTPP					
+ZnTPPS4					
+SiO2-Pd					
+TPCA					
+31P					
+JPC					
+PPh3					
+VMP2					
+VMP3					
+LAMMPS					
+α					
+BPDA					
+t-CNC-COOH.					
+PCSA					
+P2O5					
+polyanion					
+CPI					
+CP					
+P21/n					
+P1a1					
+TPPM					
+207Pb					
+GPCb					
+odd-even					
+TPA					
+DPD					
+ϕP0					
+SVA					
+MDPD					
+DPD-VV					
+χABN					
+aAB					
+Pd-C					
+TEMPO-OH					
+DPX300.					
+GPC-1000					
+DynaPro					
+SPA400					
+CPMG					
+APTES					
+lAPTmax					
+DPI					
+C60					
+COMPOSITES					
+TEMPERATURE					
+CRP					
+PARÍS					
+CAB					

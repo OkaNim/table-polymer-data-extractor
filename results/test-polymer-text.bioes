@@ -1,0 +1,36 @@
+Polyethylene	S
+is	O
+a	O
+famous	O
+polymer	O
+.	O
+
+This	O
+poymer	O
+is	O
+synthesized	O
+using	O
+etylene	O
+which	O
+is	O
+a	O
+monomer	O
+.	O
+
+The	O
+copolymerization	O
+of	O
+etylene	O
+and	O
+propylene	O
+affords	O
+poly	B
+(	I
+etylene	I
+-	I
+co	I
+-	I
+propylene	I
+)	E
+.	O
+

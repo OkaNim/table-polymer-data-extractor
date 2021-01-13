@@ -1,0 +1,5 @@
+no_file = 1,  no_dat = 3
+
+test	Table 1	poly(1)	Td (°C)	300	Td
+test	Table 1	poly(2)	Td (°C)	310	Td
+test	Table 1	poly(3)	Td (°C)	320	Td

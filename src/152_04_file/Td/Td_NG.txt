@@ -1,0 +1,48 @@
+%- T
+% Td
+(h)
+(s)
+4-DTd
+B17T
+B45T
+B51T10
+CM
+curing
+dewet
+Ex
+HT1000
+HT50
+IDT-2BR
+Ignition
+IN
+LCSTend
+LCSTonset
+m2/g
+nm
+NT-5
+ORTdedop
+PAA-T
+PBT-5%
+PFDT
+PNDI-T
+rate
+SBETd 
+T10-
+-T10
+T10 HB
+T100
+T10-75
+T1080
+T5 S1
+T500
+T54
+T560
+T5S
+Tc, onset
+Tdop
+Tendob
+Tmax (oC)
+Tpeak G
+Tpre
+ZT5
+Δ

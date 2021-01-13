@@ -1,0 +1,5 @@
+lass - transition	Tg
+lass transition	Tg
+lass Transition	Tg
+Tg	Tg
+TG	Tg

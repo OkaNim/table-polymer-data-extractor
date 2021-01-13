@@ -1,0 +1,45 @@
+poly(1)	S	O	_
+Tg (°C)	O	O	_
+100	O	O	_
+poly(1)	S	O	_
+Tm (°C)	O	O	_
+200	O	O	_
+poly(1)	S	O	_
+Td (°C)	O	S	Td
+300	O	O	_
+poly(2)	S	O	_
+Tg (°C)	O	O	_
+110	O	O	_
+poly(2)	S	O	_
+Tm (°C)	O	O	_
+210	O	O	_
+poly(2)	S	O	_
+Td (°C)	O	S	Td
+310	O	O	_
+poly(3)	S	O	_
+Tg (°C)	O	O	_
+120	O	O	_
+poly(3)	S	O	_
+Tm (°C)	O	O	_
+220	O	O	_
+poly(3)	S	O	_
+Td (°C)	O	S	Td
+320	O	O	_
+100	O	O	_
+Tm (°C)	O	O	_
+200	O	O	_
+100	O	O	_
+Td (°C)	O	S	Td
+300	O	O	_
+110	O	O	_
+Tm (°C)	O	O	_
+210	O	O	_
+110	O	O	_
+Td (°C)	O	S	Td
+310	O	O	_
+120	O	O	_
+Tm (°C)	O	O	_
+220	O	O	_
+120	O	O	_
+Td (°C)	O	S	Td
+320	O	O	_

@@ -1,0 +1,45 @@
+test	Table 1	2, 1	poly(1)
+test	Table 1	1, 2	Tg (°C)
+test	Table 1	2, 2	100
+test	Table 1	2, 1	poly(1)
+test	Table 1	1, 3	Tm (°C)
+test	Table 1	2, 3	200
+test	Table 1	2, 1	poly(1)
+test	Table 1	1, 4	Td (°C)
+test	Table 1	2, 4	300
+test	Table 1	3, 1	poly(2)
+test	Table 1	1, 2	Tg (°C)
+test	Table 1	3, 2	110
+test	Table 1	3, 1	poly(2)
+test	Table 1	1, 3	Tm (°C)
+test	Table 1	3, 3	210
+test	Table 1	3, 1	poly(2)
+test	Table 1	1, 4	Td (°C)
+test	Table 1	3, 4	310
+test	Table 1	4, 1	poly(3)
+test	Table 1	1, 2	Tg (°C)
+test	Table 1	4, 2	120
+test	Table 1	4, 1	poly(3)
+test	Table 1	1, 3	Tm (°C)
+test	Table 1	4, 3	220
+test	Table 1	4, 1	poly(3)
+test	Table 1	1, 4	Td (°C)
+test	Table 1	4, 4	320
+test	Table 1	2, 2	100
+test	Table 1	1, 3	Tm (°C)
+test	Table 1	2, 3	200
+test	Table 1	2, 2	100
+test	Table 1	1, 4	Td (°C)
+test	Table 1	2, 4	300
+test	Table 1	3, 2	110
+test	Table 1	1, 3	Tm (°C)
+test	Table 1	3, 3	210
+test	Table 1	3, 2	110
+test	Table 1	1, 4	Td (°C)
+test	Table 1	3, 4	310
+test	Table 1	4, 2	120
+test	Table 1	1, 3	Tm (°C)
+test	Table 1	4, 3	220
+test	Table 1	4, 2	120
+test	Table 1	1, 4	Td (°C)
+test	Table 1	4, 4	320
