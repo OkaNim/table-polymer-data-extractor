@@ -1,0 +1,44 @@
+5% weight loss	Td
+Decomposition	Td
+decomposition temperature	Td
+degradation temperature	Td
+DTGmax	Td
+FDT	Td
+IDT	Td
+IPDT	Td
+MDT	Td
+Offset temperature	Td
+onset [°C]	Td
+Onset temperature	Td
+Onset TGA curve	Td
+Onsets of weight loss	Td
+second onset [°C]	Td
+T0 (°C)a	Td
+T0 [°C]	Td
+T10	Td
+T2[°C]	Td
+T20% [°C]	Td
+T20(°C)	Td
+T3 (K)	Td
+T3[°C]	Td
+T30	Td
+T5	Td
+T-5	Td
+T–5	Td
+T85	Td
+T95	Td
+Td	Td
+Tend	Td
+Tf (°C)	Td
+TGAc (°C)	Td
+Thermal degradation	Td
+Thermal stability	Td
+Ti (°C)	Td
+TI (°C)	Td
+Tmax	Td
+To (°C)	Td
+TON (°C)	Td
+Tonset	Td
+TOnsetTGA	Td
+Tp	Td
+TP (°C)	Td

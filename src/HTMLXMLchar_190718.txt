@@ -1,0 +1,1350 @@
+&#x21;	&#33;	!	excl
+&#x22;	&#34;	"	quotation mark = APL quote (oka: double quotation)
+&#x23;	&#35;	#	num
+&#x24;	&#36;	$	dollar
+&#x25;	&#37;	%	percnt
+&#x26;	&#38;	&	ampersand
+&amp;	&#38;	&	ampersand
+&#x27;	&#39;	'	apos
+&#x28;	&#40;	(	lpar
+&#x29;	&#41;	)	rpar
+&#x2a;	&#42;	*	ast, midast
+&#x2b;	&#43;	+	add
+&#x2c;	&#44;	,	comma
+&#x2e;	&#46;	.	period
+&#x2f;	&#47;	/	sol
+&#x3a;	&#58;	:	colon
+&#x3b;	&#59;	;	semi
+&lt;	&#60;	<	less than
+&equals;	&#61;	=	equal
+&gt;	&#62;	>	greater than
+&#x3f;	&#63;	?	quest
+&#x40;	&#64;	@	commat
+&#x5b;	&#91;	[	lsqb, lbrack
+&#x5c;	&#92;	\	bsol
+&#x5d;	&#93;	]	rsqb, rbrack
+&#x5e;	&#94;	^	Hat
+&#x5f;	&#95;	_	lowbar
+&#x60;	&#96;	`	grave, DiacriticalGrave
+&#x7b;	&#123;	{	lcub, lbrace
+&#x7c;	&#124;	|	verbar, vert, VerticalLine
+&#x7d;	&#125;	}	rcub, rbrace
+&#xa0;	&#160;	 	non-breaking space (oka: space)
+&#xa1;	&#161;	¡	inverted exclamation mark
+&#xa2;	&#162;	¢	cent
+&#xa3;	&#163;	£	pound
+&#xa4;	&#164;	¤	currency
+&#xa5;	&#165;	¥	yen
+&#xa6;	&#166;	¦	broken vertical bar
+&#xa7;	&#167;	§	section sign
+&#xa8;	&#168;	¨	diaeresis
+&#xa9;	&#169;	©	copyright
+&#xaa;	&#170;	ª	feminine ordinal indicator
+&#xab;	&#171;	«	left pointing guillemet
+&#xac;	&#172;	¬	not sign
+&#xad;	&#173;	 	shy
+&#xae;	&#174;	®	registered sign
+&#xaf;	&#175;	¯	macron = APL overbar
+&#xb0;	&#176;	°	degree
+&#xb1;	&#177;	±	plus-or-minus
+&#xb2;	&#178;	²	squared
+&#xb3;	&#179;	³	cubed
+&#xb4;	&#180;	'	acute accent = spacing acute (oka: single quotation)
+&#xb5;	&#181;	µ	micro
+&#xb6;	&#182;	¶	pilcrow = paragraph
+&#xb7;	&#183;	·	middle dot
+&#xb8;	&#184;	¸	cedilla
+&#xb9;	&#185;	¹	superscript one
+&#xba;	&#186;	º	masculine ordinal indicator
+&#xbb;	&#187;	»	right pointing guillemet
+&#xbc;	&#188;	¼	fraction one quarter
+&#xbd;	&#189;	½	fraction one half
+&#xbe;	&#190;	¾	fraction three quarters
+&#xbf;	&#191;	¿	iquest
+&#xc0;	&#192;	À	latin capital letter A grave
+&#xc1;	&#193;	Á	latin capital letter A with acute
+&#xc2;	&#194;	Â	latin capital letter A with circumflex
+&#xc3;	&#195;	Ã	latin capital letter A with tilde
+&#xc4;	&#196;	Ä	latin capital letter A with diaeresis
+&#xc5;	&#197;	Å	angstrom
+&#xc6;	&#198;	Æ	latin capital ligature AE
+&#xc7;	&#199;	Ç	latin capital letter C with cedilla
+&#xc8;	&#200;	È	latin capital letter E with grave
+&#xc9;	&#201;	É	latin capital letter E with acute
+&#xca;	&#202;	Ê	latin capital letter E with circumflex
+&#xcb;	&#203;	Ë	latin capital letter E with diaeresis
+&#xcc;	&#204;	Ì	latin capital letter I with grave
+&#xcd;	&#205;	Í	latin capital letter I with acute
+&#xce;	&#206;	Î	latin capital letter I with circumflex
+&#xcf;	&#207;	Ï	latin capital letter I with diaeresis
+&#xd0;	&#208;	Ð	latin capital letter ETH
+&#xd1;	&#209;	Ñ	latin capital letter N with tilde
+&#xd2;	&#210;	Ò	latin capital letter O with grave
+&#xd3;	&#211;	Ó	latin capital letter O with acute
+&#xd4;	&#212;	Ô	latin capital letter O with circumflex
+&#xd5;	&#213;	Õ	latin capital letter O with tilde
+&#xd6;	&#214;	Ö	latin capital letter O with diaeresis
+&#xd7;	&#215;	×	multiplication
+&#xd8;	&#216;	Ø	Oslash
+&#xd9;	&#217;	Ù	Ugrave
+&#xda;	&#218;	Ú	Uacute
+&#xdb;	&#219;	Û	Ucirc
+&#xdc;	&#220;	Ü	Uuml
+&#xdd;	&#221;	Ý	Yacute
+&#xde;	&#222;	Þ	THORN
+&#xdf;	&#223;	ß	szlig
+&#xe0;	&#224;	à	agrave
+&#xe1;	&#225;	á	aacute
+&#xe2;	&#226;	â	acirc
+&#xe3;	&#227;	ã	atilde
+&#xe4;	&#228;	ä	auml
+&#xe5;	&#229;	å	aring
+&#xe6;	&#230;	æ	aelig
+&#xe7;	&#231;	ç	ccedil
+&#xe8;	&#232;	è	egrave
+&#xe9;	&#233;	é	eacute
+&#xea;	&#234;	ê	ecirc
+&#xeb;	&#235;	ë	euml
+&#xec;	&#236;	ì	igrave
+&#xed;	&#237;	í	iacute
+&#xee;	&#238;	î	icirc
+&#xef;	&#239;	ï	iuml
+&#xf0;	&#240;	ð	eth
+&#xf1;	&#241;	ñ	ntilde
+&#xf2;	&#242;	ò	ograve
+&#xf3;	&#243;	ó	oacute
+&#xf4;	&#244;	ô	ocirc
+&#xf5;	&#245;	õ	otilde
+&#xf6;	&#246;	ö	ouml
+&#xf7;	&#247;	÷	divide
+&#xf8;	&#248;	ø	latin small letter o with stroke
+&#xf9;	&#249;	ù	ugrave
+&#xfa;	&#250;	ú	uacute
+&#xfb;	&#251;	û	ucirc
+&#xfc;	&#252;	ü	uuml
+&#xfd;	&#253;	ý	yacute
+&#xfe;	&#254;	þ	thorn
+&#xff;	&#255;	ÿ	yuml
+&#x100;	&#256;	Ā	Amacr
+&#x101;	&#257;	ā	amacr
+&#x102;	&#258;	Ă	Abreve
+&#x103;	&#259;	ă	abreve
+&#x104;	&#260;	Ą	Aogon
+&#x105;	&#261;	ą	aogon
+&#x106;	&#262;	Ć	Cacute
+&#x107;	&#263;	ć	cacute
+&#x108;	&#264;	Ĉ	Ccirc
+&#x109;	&#265;	ĉ	ccirc
+&#x10a;	&#266;	Ċ	Cdot
+&#x10b;	&#267;	ċ	cdot
+&#x10c;	&#268;	Č	Ccaron
+&#x10d;	&#269;	č	ccaron
+&#x10e;	&#270;	Ď	Dcaron
+&#x10f;	&#271;	ď	dcaron
+&#x110;	&#272;	Đ	DSTROK
+&#x111;	&#273;	đ	dstrok
+&#x112;	&#274;	Ē	Emacr
+&#x113;	&#275;	ē	emacr
+&#x116;	&#278;	Ė	Edot
+&#x117;	&#279;	ė	edot
+&#x118;	&#280;	Ę	Eogon
+&#x119;	&#281;	ę	eogon
+&#x11a;	&#282;	Ě	Ecaron
+&#x11b;	&#283;	ě	ecaron
+&#x11c;	&#284;	Ĝ	Gcirc
+&#x11d;	&#285;	ĝ	gcirc
+&#x11e;	&#286;	Ğ	Gbreve
+&#x11f;	&#287;	ğ	gbreve
+&#x120;	&#288;	Ġ	Gdot
+&#x121;	&#289;	ġ	gdot
+&#x122;	&#290;	Ģ	Gcedil
+&#x124;	&#292;	Ĥ	Hcirc
+&#x125;	&#293;	ĥ	hcirc
+&#x126;	&#294;	Ħ	Hstrok
+&#x127;	&#295;	ħ	hstrok
+&#x128;	&#296;	Ĩ	Itilde
+&#x129;	&#297;	ĩ	itilde
+&#x12a;	&#298;	Ī	Imacr
+&#x12b;	&#299;	ī	imacr
+&#x12e;	&#302;	Į	Iogon
+&#x12f;	&#303;	į	iogon
+&#x130;	&#304;	İ	Idot
+&#x131;	&#305;	ı	imath, inodot
+&#x132;	&#306;	Ĳ	IJlig
+&#x133;	&#307;	ĳ	ijlig
+&#x134;	&#308;	Ĵ	Jcirc
+&#x135;	&#309;	ĵ	jcirc
+&#x136;	&#310;	Ķ	Kcedil
+&#x137;	&#311;	ķ	kcedil
+&#x138;	&#312;	ĸ	kgreen
+&#x139;	&#313;	Ĺ	Lacute
+&#x13a;	&#314;	ĺ	lacute
+&#x13b;	&#315;	Ļ	Lcedil
+&#x13c;	&#316;	ļ	lcedil
+&#x13d;	&#317;	Ľ	Lcaron
+&#x13e;	&#318;	ľ	lcaron
+&#x13f;	&#319;	Ŀ	Lmidot
+&#x140;	&#320;	ŀ	lmidot
+&#x141;	&#321;	Ł	Lstrok
+&#x142;	&#322;	ł	lstrok
+&#x143;	&#323;	Ń	Nacute
+&#x144;	&#324;	ń	nacute
+&#x145;	&#325;	Ņ	Ncedil
+&#x146;	&#326;	ņ	ncedil
+&#x147;	&#327;	Ň	Ncaron
+&#x148;	&#328;	ň	ncaron
+&#x149;	&#329;	ŉ	napos
+&#x14a;	&#330;	Ŋ	ENG
+&#x14b;	&#331;	ŋ	eng
+&#x14c;	&#332;	Ō	Omacr
+&#x14d;	&#333;	ō	omacr
+&#x150;	&#336;	Ő	Odblac
+&#x151;	&#337;	ő	odblac
+&#x152;	&#338;	Œ	OElig
+&#x153;	&#339;	œ	oelig
+&#x154;	&#340;	Ŕ	Racute
+&#x155;	&#341;	ŕ	racute
+&#x156;	&#342;	Ŗ	Rcedil
+&#x157;	&#343;	ŗ	rcedil
+&#x158;	&#344;	Ř	Rcaron
+&#x159;	&#345;	ř	rcaron
+&#x15a;	&#346;	Ś	Sacute
+&#x15b;	&#347;	ś	sacute
+&#x15c;	&#348;	Ŝ	Scirc
+&#x15d;	&#349;	ŝ	scirc
+&#x15e;	&#350;	Ş	Scedil
+&#x15f;	&#351;	ş	scedil
+&#x160;	&#352;	Š	Scaron
+&#x161;	&#353;	š	scaron
+&#x162;	&#354;	Ţ	Tcedil
+&#x163;	&#355;	ţ	tcedil
+&#x164;	&#356;	Ť	Tcaron
+&#x165;	&#357;	ť	tcaron
+&#x166;	&#358;	Ŧ	Tstrok
+&#x167;	&#359;	ŧ	tstrok
+&#x168;	&#360;	Ũ	Utilde
+&#x169;	&#361;	ũ	utilde
+&#x16a;	&#362;	Ū	Umacr
+&#x16b;	&#363;	ū	umacr
+&#x16c;	&#364;	Ŭ	Ubreve
+&#x16d;	&#365;	ŭ	ubreve
+&#x16e;	&#366;	Ů	Uring
+&#x16f;	&#367;	ů	uring
+&#x170;	&#368;	Ű	Udblac
+&#x171;	&#369;	ű	udblac
+&#x172;	&#370;	Ų	Uogon
+&#x173;	&#371;	ų	uogon
+&#x174;	&#372;	Ŵ	Wcirc
+&#x175;	&#373;	ŵ	wcirc
+&#x176;	&#374;	Ŷ	Ycirc
+&#x177;	&#375;	ŷ	ycirc
+&#x178;	&#376;	Ÿ	Yuml
+&#x179;	&#377;	Ź	Zacute
+&#x17a;	&#378;	ź	zacute
+&#x17b;	&#379;	Ż	Zdot
+&#x17c;	&#380;	ż	zdot
+&#x17d;	&#381;	Ž	Zcaron
+&#x17e;	&#382;	ž	zcaron
+&#x192;	&#402;	ƒ	fnof
+&#x1b5;	&#437;	Ƶ	imped
+&#x1f5;	&#501;	ǵ	gacute
+&#x237;	&#567;	ȷ	jmath
+&#x2c6;	&#710;	ˆ	circ
+&#x2c7;	&#711;	ˇ	caron, Hacek
+&#x2d8;	&#728;	˘	breve, Breve
+&#x2d9;	&#729;	˙	dot, DiacriticalDot
+&#x2da;	&#730;	˚	ring
+&#x2db;	&#731;	˛	ogon
+&#x2dc;	&#732;	˜	tilde, DiacriticalTilde
+&#x2dd;	&#733;	˝	dblac, DiacriticalDoubleAcute
+&#x302;	&#770;	^	combining circumflex accent
+&#x305;	&#773;	̅	combining overline
+&#x311;	&#785;	̑	DownBreve
+&#x332;	&#818;	̲	UnderBar
+&#x391;	&#913;	Α	ALPHA
+&#x392;	&#914;	Β	BETA
+&#x393;	&#915;	Γ	GAMMA
+&#x394;	&#916;	Δ	DELTA
+&#x395;	&#917;	Ε	EPSIRON
+&#x396;	&#918;	Ζ	ZETA
+&#x397;	&#919;	Η	ETA
+&#x398;	&#920;	Θ	THETA
+&#x399;	&#921;	Ι	IOTA
+&#x39a;	&#922;	Κ	KAPPA
+&#x39b;	&#923;	Λ	LAMBDA
+&#x39c;	&#924;	Μ	MU
+&#x39d;	&#925;	Ν	NU
+&#x39e;	&#926;	Ξ	XI
+&#x39f;	&#927;	Ο	OMICRON
+&#x3a0;	&#928;	Π	PI
+&#x3a1;	&#929;	Ρ	RHO
+&#x3a3;	&#931;	Σ	SIGMA
+&#x3a4;	&#932;	Τ	TAU
+&#x3a5;	&#933;	Υ	UPSIRON
+&#x3a6;	&#934;	Φ	PHI
+&#x3a7;	&#935;	Χ	CHI
+&#x3a8;	&#936;	Ψ	PSI
+&#x3a9;	&#937;	Ω	OMEGA
+&#x3b1;	&#945;	α	alpha
+&#x3b2;	&#946;	β	beta
+&#x3b3;	&#947;	γ	gamma
+&#x3b4;	&#948;	δ	delta
+&#x3b5;	&#949;	ε	epsilon
+&#x3b6;	&#950;	ζ	zeta
+&#x3b7;	&#951;	η	eta
+&#x3b8;	&#952;	θ	theta
+&#x3b9;	&#953;	ι	iota
+&#x3ba;	&#954;	κ	kappa
+&#x3bb;	&#955;	λ	lambda
+&#x3bc;	&#956;	μ	mu
+&#x3bd;	&#957;	ν	nu
+&#x3be;	&#958;	ξ	xi
+&#x3bf;	&#959;	ο	omicron
+&#x3c0;	&#960;	π	pi
+&#x3c1;	&#961;	ρ	rho
+&#x3c2;	&#962;	ς	sigmaf
+&#x3c3;	&#963;	σ	sigma
+&#x3c4;	&#964;	τ	tau
+&#x3c5;	&#965;	υ	upsilon
+&#x3c6;	&#966;	φ	phi
+&#x3c7;	&#967;	χ	chi
+&#x3c8;	&#968;	ψ	psi
+&#x3c9;	&#969;	ω	omega
+&#x3d1;	&#977;	ϑ	thetasym, thetav, vartheta
+&#x3d2;	&#978;	ϒ	upsih, Upsi
+&#x3d5;	&#981;	ϕ	straightphi
+&#x3d6;	&#982;	ϖ	piv, varpi
+&#x3dc;	&#988;	Ϝ	Gammad
+&#x3dd;	&#989;	ϝ	gammad, digamma
+&#x3f0;	&#1008;	ϰ	kappav, varkappa
+&#x3f1;	&#1009;	ϱ	rhov, varrho
+&#x3f5;	&#1013;	ϵ	epsi, straightepsilon
+&#x3f6;	&#1014;	϶	bepsi, backepsilon
+&#x401;	&#1025;	Ё	IOcy
+&#x402;	&#1026;	Ђ	DJcy
+&#x403;	&#1027;	Ѓ	GJcy
+&#x404;	&#1028;	Є	Jukcy
+&#x405;	&#1029;	Ѕ	DScy
+&#x406;	&#1030;	І	Iukcy
+&#x407;	&#1031;	Ї	YIcy
+&#x408;	&#1032;	Ј	Jsercy
+&#x409;	&#1033;	Љ	LJcy
+&#x40a;	&#1034;	Њ	NJcy
+&#x40b;	&#1035;	Ћ	TSHcy
+&#x40c;	&#1036;	Ќ	KJcy
+&#x40e;	&#1038;	Ў	Ubrcy
+&#x40f;	&#1039;	Џ	DZcy
+&#x410;	&#1040;	А	Acy
+&#x411;	&#1041;	Б	Bcy
+&#x412;	&#1042;	В	Vcy
+&#x413;	&#1043;	Г	Gcy
+&#x414;	&#1044;	Д	Dcy
+&#x415;	&#1045;	Е	IEcy
+&#x416;	&#1046;	Ж	ZHcy
+&#x417;	&#1047;	З	Zcy
+&#x418;	&#1048;	И	Icy
+&#x419;	&#1049;	Й	Jcy
+&#x41a;	&#1050;	К	Kcy
+&#x41b;	&#1051;	Л	Lcy
+&#x41c;	&#1052;	М	Mcy
+&#x41d;	&#1053;	Н	Ncy
+&#x41e;	&#1054;	О	Ocy
+&#x41f;	&#1055;	П	Pcy
+&#x420;	&#1056;	Р	Rcy
+&#x421;	&#1057;	С	Scy
+&#x422;	&#1058;	Т	Tcy
+&#x423;	&#1059;	У	Ucy
+&#x424;	&#1060;	Ф	Fcy
+&#x425;	&#1061;	Х	KHcy
+&#x426;	&#1062;	Ц	TScy
+&#x427;	&#1063;	Ч	CHcy
+&#x428;	&#1064;	Ш	SHcy
+&#x429;	&#1065;	Щ	SHCHcy
+&#x42a;	&#1066;	Ъ	HARDcy
+&#x42b;	&#1067;	Ы	Ycy
+&#x42c;	&#1068;	Ь	SOFTcy
+&#x42d;	&#1069;	Э	Ecy
+&#x42e;	&#1070;	Ю	YUcy
+&#x42f;	&#1071;	Я	YAcy
+&#x430;	&#1072;	а	acy
+&#x431;	&#1073;	б	bcy
+&#x432;	&#1074;	в	vcy
+&#x433;	&#1075;	г	gcy
+&#x434;	&#1076;	д	dcy
+&#x435;	&#1077;	е	iecy
+&#x436;	&#1078;	ж	zhcy
+&#x437;	&#1079;	з	zcy
+&#x438;	&#1080;	и	icy
+&#x439;	&#1081;	й	jcy
+&#x43a;	&#1082;	к	kcy
+&#x43b;	&#1083;	л	lcy
+&#x43c;	&#1084;	м	mcy
+&#x43d;	&#1085;	н	ncy
+&#x43e;	&#1086;	о	ocy
+&#x43f;	&#1087;	п	pcy
+&#x440;	&#1088;	р	rcy
+&#x441;	&#1089;	с	scy
+&#x442;	&#1090;	т	tcy
+&#x443;	&#1091;	у	ucy
+&#x444;	&#1092;	ф	fcy
+&#x445;	&#1093;	х	khcy
+&#x446;	&#1094;	ц	tscy
+&#x447;	&#1095;	ч	chcy
+&#x448;	&#1096;	ш	shcy
+&#x449;	&#1097;	щ	shchcy
+&#x44a;	&#1098;	ъ	hardcy
+&#x44b;	&#1099;	ы	ycy
+&#x44c;	&#1100;	ь	softcy
+&#x44d;	&#1101;	э	ecy
+&#x44e;	&#1102;	ю	yucy
+&#x44f;	&#1103;	я	yacy
+&#x451;	&#1105;	ё	iocy
+&#x452;	&#1106;	ђ	djcy
+&#x453;	&#1107;	ѓ	gjcy
+&#x454;	&#1108;	є	jukcy
+&#x455;	&#1109;	ѕ	dscy
+&#x456;	&#1110;	і	iukcy
+&#x457;	&#1111;	ї	yicy
+&#x458;	&#1112;	ј	jsercy
+&#x459;	&#1113;	љ	ljcy
+&#x45a;	&#1114;	њ	njcy
+&#x45b;	&#1115;	ћ	tshcy
+&#x45c;	&#1116;	ќ	kjcy
+&#x45e;	&#1118;	ў	ubrcy
+&#x45f;	&#1119;	џ	dzcy
+&#x2002;	&#8194;	 	ensp
+&#x2003;	&#8195;	 	emsp
+&#x2004;	&#8196;	 	emsp13
+&#x2005;	&#8197;	 	emsp14
+&#x2007;	&#8199;	 	numsp
+&#x2008;	&#8200;	 	puncsp
+&#x2009;	&#8201;	 	thin space (oka: space)
+&#x200a;	&#8202;	 	hairsp, VeryThinSpace
+&#x200b;	&#8203;	 	ZeroWidthSpace, NegativeVeryThinSpace, NegativeThinSpace, NegativeMediumSpace, NegativeThickSpace
+&#x200c;	&#8204;	 	zwnj
+&#x200d;	&#8205;	 	zwj
+&#x200e;	&#8206;	 	lrm
+&#x200f;	&#8207;	 	rlm
+&#x2010;	&#8208;	‐	hyphen, dash
+&#x2013;	&#8211;	-	en dash (oka: hyphen)
+&#x2014;	&#8212;	—	mdash
+&#x2015;	&#8213;	―	horbar
+&#x2016;	&#8214;	‖	Verbar, Vert
+&#x2018;	&#8216;	'	left single quotation (oka: single quotation)
+&#x2019;	&#8217;	'	right single quotation (oka: single quotation)
+&#x201a;	&#8218;	,	single low-9 quotation (oka: comma)
+&#x201c;	&#8220;	"	left double quotation (oka: double quotation)
+&#x201d;	&#8221;	"	right double quotation (oka: double quotation)
+&#x201e;	&#8222;	„	bdquo, ldquor
+&#x2020;	&#8224;	†	dagger
+&#x2021;	&#8225;	‡	double dagger
+&#x2022;	&#8226;	•	bullet = black small circle
+&#x2025;	&#8229;	‥	nldr
+&#x2026;	&#8230;	…	hellip, mldr
+&#x202f;	&#8239;	 	narrow no-break space (oka: space)
+&#x2030;	&#8240;	‰	per mille sign
+&#x2031;	&#8241;	‱	pertenk
+&#x2032;	&#8242;	'	prime = minutes = feet (oka: single quotation)
+&#x2033;	&#8243;	"	double prime = seconds = inches (oka: double quotation)
+&#x2034;	&#8244;	‴	tprime
+&#x2035;	&#8245;	‵	bprime, backprime
+&#x2039;	&#8249;	‹	lsaquo
+&#x203a;	&#8250;	›	rsaquo
+&#x203e;	&#8254;	‾	oline
+&#x2041;	&#8257;	⁁	caret
+&#x2043;	&#8259;	⁃	hybull
+&#x2044;	&#8260;	⁄	frasl
+&#x204f;	&#8271;	⁏	bsemi
+&#x2057;	&#8279;	⁗	qprime
+&#x205f;	&#8287;	 	MediumSpace
+&#x2060;	&#8288;	 	NoBreak
+&#x2061;	&#8289;	 	ApplyFunction, af
+&#x2062;	&#8290;	 	InvisibleTimes, it
+&#x2063;	&#8291;	 	InvisibleComma, ic
+&#x20ac;	&#8364;	€	euro
+&#x20db;	&#8411;	⃛	tdot, TripleDot
+&#x20dc;	&#8412;	⃜	DotDot
+&#x2102;	&#8450;	ℂ	Copf, complexes
+&#x2105;	&#8453;	℅	incare
+&#x210a;	&#8458;	ℊ	gscr
+&#x210b;	&#8459;	ℋ	hamilt, HilbertSpace, Hscr
+&#x210c;	&#8460;	ℌ	Hfr, PoincarePlane
+&#x210d;	&#8461;	ℍ	quaternions, Hopf
+&#x210e;	&#8462;	ℎ	planckh
+&#x210f;	&#8463;	ℏ	planck, hbar, plankv, hslash
+&#x2110;	&#8464;	ℐ	Iscr, imagline
+&#x2111;	&#8465;	ℑ	image, Im, imagpart, Ifr
+&#x2112;	&#8466;	ℒ	Lscr, lagram, Laplacetrf
+&#x2113;	&#8467;	ℓ	ell
+&#x2115;	&#8469;	ℕ	Nopf, naturals
+&#x2116;	&#8470;	№	numero
+&#x2117;	&#8471;	℗	copysr
+&#x2118;	&#8472;	℘	weierp, wp
+&#x2119;	&#8473;	ℙ	Popf, primes
+&#x211a;	&#8474;	ℚ	rationals, Qopf
+&#x211b;	&#8475;	ℛ	Rscr, realine
+&#x211c;	&#8476;	ℜ	real, Re, realpart, Rfr
+&#x211d;	&#8477;	ℝ	reals, Ropf
+&#x211e;	&#8478;	℞	rx
+&#x2122;	&#8482;	™	trade mark sign
+&#x2124;	&#8484;	ℤ	integers, Zopf
+&#x2126;	&#8486;	Ω	ohm
+&#x2127;	&#8487;	℧	mho
+&#x2128;	&#8488;	ℨ	Zfr, zeetrf
+&#x2129;	&#8489;	℩	iiota
+&#x212b;	&#8491;	Å	angst
+&#x212c;	&#8492;	ℬ	bernou, Bernoullis, Bscr
+&#x212d;	&#8493;	ℭ	Cfr, Cayleys
+&#x212f;	&#8495;	ℯ	escr
+&#x2130;	&#8496;	ℰ	Escr, expectation
+&#x2131;	&#8497;	ℱ	Fscr, Fouriertrf
+&#x2133;	&#8499;	ℳ	phmmat, Mscr, Mellintrf
+&#x2134;	&#8500;	ℴ	order, orderof, oscr
+&#x2135;	&#8501;	ℵ	alefsym, aleph
+&#x2136;	&#8502;	ℶ	beth
+&#x2137;	&#8503;	ℷ	gimel
+&#x2138;	&#8504;	ℸ	daleth
+&#x2145;	&#8517;	ⅅ	CapitalDifferentialD, DD
+&#x2146;	&#8518;	ⅆ	DifferentialD, dd
+&#x2147;	&#8519;	ⅇ	ExponentialE, exponentiale, ee
+&#x2148;	&#8520;	ⅈ	ImaginaryI, ii
+&#x2153;	&#8531;	⅓	frac13
+&#x2154;	&#8532;	⅔	frac23
+&#x2155;	&#8533;	⅕	frac15
+&#x2156;	&#8534;	⅖	frac25
+&#x2157;	&#8535;	⅗	frac35
+&#x2158;	&#8536;	⅘	frac45
+&#x2159;	&#8537;	⅙	frac16
+&#x215a;	&#8538;	⅚	frac56
+&#x215b;	&#8539;	⅛	frac18
+&#x215c;	&#8540;	⅜	frac38
+&#x215d;	&#8541;	⅝	frac58
+&#x215e;	&#8542;	⅞	frac78
+&#x2190;	&#8592;	←	leftwards arrow
+&#x2191;	&#8593;	↑	upwards arrow
+&#x2192;	&#8594;	→	rightward arrow
+&#x2193;	&#8595;	↓	downwards arrow
+&#x2194;	&#8596;	↔	harr, leftrightarrow, LeftRightArrow
+&#x2195;	&#8597;	↕	varr, updownarrow, UpDownArrow
+&#x2196;	&#8598;	↖	nwarr, UpperLeftArrow, nwarrow
+&#x2197;	&#8599;	↗	nearr, UpperRightArrow, nearrow
+&#x2198;	&#8600;	↘	searr, searrow, LowerRightArrow
+&#x2199;	&#8601;	↙	swarr, swarrow, LowerLeftArrow
+&#x219a;	&#8602;	↚	nlarr, nleftarrow
+&#x219b;	&#8603;	↛	nrarr, nrightarrow
+&#x219d;	&#8605;	↝	rarrw, rightsquigarrow
+&#x219e;	&#8606;	↞	Larr, twoheadleftarrow
+&#x219f;	&#8607;	↟	Uarr
+&#x21a0;	&#8608;	↠	Rarr, twoheadrightarrow
+&#x21a1;	&#8609;	↡	Darr
+&#x21a2;	&#8610;	↢	larrtl, leftarrowtail
+&#x21a3;	&#8611;	↣	rarrtl, rightarrowtail
+&#x21a4;	&#8612;	↤	LeftTeeArrow, mapstoleft
+&#x21a5;	&#8613;	↥	UpTeeArrow, mapstoup
+&#x21a6;	&#8614;	↦	map, RightTeeArrow, mapsto
+&#x21a7;	&#8615;	↧	DownTeeArrow, mapstodown
+&#x21a9;	&#8617;	↩	larrhk, hookleftarrow
+&#x21aa;	&#8618;	↪	rarrhk, hookrightarrow
+&#x21ab;	&#8619;	↫	larrlp, looparrowleft
+&#x21ac;	&#8620;	↬	rarrlp, looparrowright
+&#x21ad;	&#8621;	↭	harrw, leftrightsquigarrow
+&#x21ae;	&#8622;	↮	nharrow, nleftrightarrow
+&#x21b0;	&#8624;	↰	lsh, Lsh
+&#x21b1;	&#8625;	↱	rsh, Rsh
+&#x21b2;	&#8626;	↲	ldsh
+&#x21b3;	&#8627;	↳	rdsh
+&#x21b5;	&#8629;	↵	crarr
+&#x21b6;	&#8630;	↶	cularr, curvearrowleft
+&#x21b7;	&#8631;	↷	curarr, curvearrowright
+&#x21ba;	&#8634;	↺	olarr, circlearrowleft
+&#x21bb;	&#8635;	↻	orarr, circlearrowright
+&#x21bc;	&#8636;	↼	lharu, LeftVector, leftharpoonup
+&#x21bd;	&#8637;	↽	lhard, leftharpoondown, DownLeftVector
+&#x21be;	&#8638;	↾	uharr, upharpoonright, RightUpVector
+&#x21bf;	&#8639;	↿	uharl, upharpoonleft, LeftUpVector
+&#x21c0;	&#8640;	⇀	rharu, RightVector, rightharpoonup
+&#x21c1;	&#8641;	⇁	rhard, rightharpoondown, DownRightVector
+&#x21c2;	&#8642;	⇂	dharr, RightDownVector, downharpoonright
+&#x21c3;	&#8643;	⇃	dharl, LeftDownVector, downharpoonleft
+&#x21c4;	&#8644;	⇄	rlarr, rightleftarrows, RightArrowLeftArrow
+&#x21c5;	&#8645;	⇅	udarr, UpArrowDownArrow
+&#x21c6;	&#8646;	⇆	lrarr, leftrightarrows, LeftArrowRightArrow
+&#x21c7;	&#8647;	⇇	llarr, leftleftarrows
+&#x21c8;	&#8648;	⇈	uuarr, upuparrows
+&#x21c9;	&#8649;	⇉	rrarr, rightrightarrows
+&#x21ca;	&#8650;	⇉	ddarr, downdownarrows
+&#x21cb;	&#8651;	⇋	lrhar, ReverseEquilibrium, leftrightharpoons
+&#x21cc;	&#8652;	⇌	rlhar, Equilibrium, rightleftharpoons
+&#x21cd;	&#8653;	⇍	nlArr, nLeftArrow
+&#x21ce;	&#8654;	⇍	nhArr, nLeftrightarrow
+&#x21cf;	&#8655;	⇍	nrArr, nRightArrow
+&#x21d0;	&#8656;	⇐	lArr, Leftarrow, DoubleLeftArrow
+&#x21d1;	&#8657;	⇑	uArr, Uparrow, DoubleUpArrow
+&#x21d2;	&#8658;	⇒	rightwards double arrow
+&#x21d3;	&#8659;	⇓	dArr, Downarrow, DoubleDownArrow
+&#x21d4;	&#8660;	⇔	left right double arrow
+&#x21d5;	&#8661;	⇕	vArr, Updownarrow, DoubleUpDownArrow
+&#x21d6;	&#8662;	⇖	nwArr
+&#x21d7;	&#8663;	⇗	neArr
+&#x21d8;	&#8664;	⇘	seArr
+&#x21d9;	&#8665;	⇙	swArr
+&#x21da;	&#8666;	⇚	lAarr, Lleftarrow
+&#x21db;	&#8667;	⇛	rAarr, Rrightarrow
+&#x21dd;	&#8669;	⇝	zigrarr
+&#x21e4;	&#8676;	⇤	larrb, LeftArrowBar
+&#x21e5;	&#8677;	⇤	rarrb, RightArrowBar
+&#x21f5;	&#8693;	⇵	duarr, DownArrowUpArrow
+&#x21fd;	&#8701;	⇽	loarr
+&#x21fe;	&#8702;	⇾	roarr
+&#x21ff;	&#8703;	⇿	hoarr
+&#x2200;	&#8704;	∀	for all
+&#x2201;	&#8705;	∁	comp, complement
+&#x2202;	&#8706;	∂	partial differential
+&#x2203;	&#8707;	∃	exist, Exists
+&#x2204;	&#8708;	∄	nexist, NotExists, nexists
+&#x2205;	&#8709;	∅	empty, emptyset, emptyv, varnothing
+&#x2207;	&#8711;	∇	nabla = backward difference
+&#x2208;	&#8712;	∈	isin, isinv, Element, in
+&#x2209;	&#8713;	∉	notin, NotElement, notinva
+&#x220b;	&#8715;	∋	ni, niv, ReverseElement, SuchThat
+&#x220c;	&#8716;	∌	notni, notniva, NotReverseElement
+&#x220f;	&#8719;	∏	prod, Product
+&#x2210;	&#8720;	∐	coprod, Coproduct
+&#x2211;	&#8721;	∑	n-ary sumation
+&#x2212;	&#8722;	-	minus (oka: hyphen)
+&#x2213;	&#8723;	∓	mnplus, mp, MinusPlus
+&#x2214;	&#8724;	∔	plusdo, dotplus
+&#x2216;	&#8726;	∖	setmn, setminus, Backslash, ssetmn, smallsetminus
+&#x2217;	&#8727;	∗	asterisk operator
+&#x2218;	&#8728;	∘	compfn, SmallCircle
+&#x221a;	&#8730;	√	square root = radical sign
+&#x221d;	&#8733;	∝	prop, propto, Proportional, vprop, varpropto
+&#x221e;	&#8734;	∞	infinite
+&#x221f;	&#8735;	∟	angrt
+&#x2220;	&#8736;	∠	ang, angle
+&#x2221;	&#8737;	∡	angmsd, measuredangle
+&#x2222;	&#8738;	∡	angsph
+&#x2223;	&#8739;	∣	mid, VerticalBar, smid, shortmid
+&#x2224;	&#8740;	∤	nmid, NotVerticalBar, nsmid, nshortmid
+&#x2225;	&#8741;	∥	par, parallel, DoubleVerticalBar, spar, shortparallel
+&#x2226;	&#8742;	∦	npar, nparallel, NotDoubleVerticalBar, nspar, nshortparallel
+&#x2227;	&#8743;	∧	logical and = wedge
+&#x2228;	&#8744;	∨	logical or = vee
+&#x2229;	&#8745;	∩	intersection = cap
+&#x222a;	&#8746;	∪	union = cup
+&#x222b;	&#8747;	∫	integral
+&#x222c;	&#8748;	∬	int, Integral
+&#x222d;	&#8749;	∭	tint, iiint
+&#x222e;	&#8750;	∮	conint, oint, ContourIntegral
+&#x222f;	&#8751;	∯	Conint, DoubleContourIntegral
+&#x2230;	&#8752;	∰	Cconint
+&#x2231;	&#8753;	∱	cwint
+&#x2232;	&#8754;	∲	cwconint, ClockwiseContourIntegral
+&#x2233;	&#8755;	∲	awconint, CounterClockwiseContourIntegral
+&#x2234;	&#8756;	∴	therefore
+&#x2235;	&#8757;	∵	becaus, because, Because
+&#x2236;	&#8758;	∶	ratio
+&#x2237;	&#8759;	∷	Colon, Proportion
+&#x2238;	&#8760;	∸	minusd, dotminus
+&#x223a;	&#8762;	∺	mDDot
+&#x223b;	&#8763;	∻	homtht
+&#x223c;	&#8764;	~	tilde operator
+&#x223d;	&#8765;	∽	bsim, backsim
+&#x223e;	&#8766;	∾	ac, mstpos
+&#x223f;	&#8767;	∿	acd
+&#x2240;	&#8768;	≀	wreath, VerticalTilde, wr
+&#x2241;	&#8769;	≁	nsim, NotTilde
+&#x2242;	&#8770;	≂	esim, EqualTilde, eqsim
+&#x2243;	&#8771;	≃	sime, TildeEqual, simeq
+&#x2244;	&#8772;	≄	nsime, nsimeq, NotTildeEqual
+&#x2245;	&#8773;	≅	cong, TildeFullEqual
+&#x2246;	&#8774;	≆	simne
+&#x2247;	&#8775;	≇	ncong, NotTildeFullEqual
+&#x2248;	&#8776;	≈	almost equal to
+&#x2249;	&#8777;	≉	nap, NotTildeTilde, napprox
+&#x224a;	&#8778;	≊	ape, approxeq
+&#x224b;	&#8779;	≋	apid
+&#x224c;	&#8780;	≌	bcong, backcong
+&#x224d;	&#8781;	≍	asympeq, CupCap
+&#x224e;	&#8782;	≎	bump, HumpDownHump, Bumpeq
+&#x224f;	&#8783;	≏	bumpe, HumpEqual, Humpeq
+&#x2250;	&#8784;	≐	esdot, DotEqual, doteq
+&#x2251;	&#8785;	≑	edot, doteqdot
+&#x2252;	&#8786;	≒	efdot, fallingdotseq
+&#x2253;	&#8787;	≓	erdot, risingdotseq
+&#x2254;	&#8788;	≔	colone, coloneq, Assign
+&#x2255;	&#8789;	≕	ecolon, eqcolon
+&#x2256;	&#8790;	≖	ecir, eqcirc
+&#x2257;	&#8791;	≗	cire, circeq
+&#x2259;	&#8793;	≙	wedgeq
+&#x225a;	&#8794;	≚	veeeq
+&#x225c;	&#8796;	≜	trie, triangleq
+&#x225f;	&#8799;	≟	equest, questeq
+&#x2260;	&#8800;	≠	not equal to
+&#x2261;	&#8801;	≡	identical to
+&#x2262;	&#8802;	≢	nequiv, NotCongruent
+&#x2264;	&#8804;	≤	less than or equal to
+&#x2265;	&#8805;	≥	greater than or equal to
+&#x2266;	&#8806;	≦	lE, LessFullEqual, leqq
+&#x2267;	&#8807;	≧	gE, GreaterFullEqual, geqq
+&#x2268;	&#8808;	≨	lnE, lneqq
+&#x2269;	&#8809;	≩	gnE, gneqq
+&#x226a;	&#8810;	≪	Lt, NestedLessLess, ll
+&#x226b;	&#8811;	≫	Gt, NestedGreaterGreater, gg
+&#x226c;	&#8812;	≬	twixt, between
+&#x226d;	&#8813;	≭	NotCupCap
+&#x226e;	&#8814;	≮	nlt, NotLess, nless
+&#x226f;	&#8815;	≯	ngt, NotGreater, ngtr
+&#x2270;	&#8816;	≰	nle, NotLessEqual, nleq
+&#x2271;	&#8817;	≱	nge, NotGreaterEqual, ngeq
+&#x2272;	&#8818;	≲	lsim, LessTilde, lesssim
+&#x2273;	&#8819;	≳	gsim, GreaterTilde, gtrsim
+&#x2274;	&#8820;	≴	nlsim, NotLessTilde
+&#x2275;	&#8821;	≵	ngsim, NotGreaterTilde
+&#x2276;	&#8822;	≶	lg, lessgtr, LessGreater
+&#x2277;	&#8823;	≷	gl, gtrless, GreaterLess
+&#x2278;	&#8824;	≸	ntlg, NotLessGreater
+&#x2279;	&#8825;	≹	ntgl, GreaterLess
+&#x227a;	&#8826;	≺	pr, Precedes, prec
+&#x227b;	&#8827;	≻	sc, Succeeds, succ
+&#x227c;	&#8828;	≼	prcue, PrecedesSlantEqual, preccurlyeq
+&#x227d;	&#8829;	≽	sccue, SucceedsSlantEqual, succcurlyeq
+&#x227e;	&#8830;	≾	prsim, precsim, PrecedesTilde
+&#x227f;	&#8831;	≿	sccue, SucceedsSlantEqual, succcurlyeq
+&#x2280;	&#8832;	⊀	npr, nprec, NotPrecedes
+&#x2281;	&#8833;	⊁	nsc, nsucc, NotSucceeds
+&#x2282;	&#8834;	⊂	sub, subset
+&#x2283;	&#8835;	⊃	sup, supset, Superset
+&#x2284;	&#8836;	⊄	nsub
+&#x2285;	&#8837;	⊅	nsup
+&#x2286;	&#8838;	⊆	sube, SubsetEqual, subseteq
+&#x2287;	&#8839;	⊇	supe, supseteq, SupersetEqual
+&#x2288;	&#8840;	⊈	nsube, nsubseteq, NotSubsetEqual
+&#x2289;	&#8841;	⊉	nsupe, nsupseteq, NotSupersetEqual
+&#x228a;	&#8842;	⊊	subne, subsetneq
+&#x228b;	&#8843;	⊋	supne, supsetneq
+&#x228d;	&#8845;	⊍	cupdot
+&#x228e;	&#8846;	⊎	uplus, UnionPlus
+&#x228f;	&#8847;	⊏	sqsub, SquareSubset, sqsubset
+&#x2290;	&#8848;	⊐	sqsup, SquareSuperset, sqsupset
+&#x2291;	&#8849;	⊑	sqsube, SquareSubsetEqual, sqsubseteq
+&#x2292;	&#8850;	⊒	sqsupe, SquareSupersetEqual, sqsupseteq
+&#x2293;	&#8851;	⊓	sqcap, SquareIntersection
+&#x2294;	&#8852;	⊔	sqcup, SquareUnion
+&#x2295;	&#8853;	⊕	oplus, CirclePlus
+&#x2296;	&#8854;	⊖	ominus, CircleMinus
+&#x2297;	&#8855;	⊗	otimes, CircleTimes
+&#x2298;	&#8856;	⊘	osol
+&#x2299;	&#8857;	⊙	odot, CircleDot
+&#x229a;	&#8858;	⊚	ocr, circledcirc
+&#x229b;	&#8859;	⊛	oast, circledast
+&#x229d;	&#8861;	⊝	odash, circleddash
+&#x229e;	&#8862;	⊞	plusb, boxplus
+&#x229f;	&#8863;	⊟	minusb, boxminus
+&#x22a0;	&#8864;	⊠	timesb, boxtimes
+&#x22a1;	&#8865;	⊡	sdotb, dotsquare
+&#x22a2;	&#8866;	⊢	vdash, RightTee
+&#x22a3;	&#8867;	⊣	dashv, LeftTee
+&#x22a4;	&#8868;	⊤	top, DownTee
+&#x22a5;	&#8869;	⊥	up tack = orthogonal to = per
+&#x22a7;	&#8871;	⊧	models
+&#x22a8;	&#8872;	⊨	vDash, DoubleRightTee
+&#x22a9;	&#8873;	⊩	Vdash
+&#x22aa;	&#8874;	⊪	Vvdash
+&#x22ab;	&#8875;	⊫	VDash
+&#x22ac;	&#8876;	⊬	nvdash
+&#x22ad;	&#8877;	⊭	nvDash
+&#x22ae;	&#8878;	⊮	nVdash
+&#x22af;	&#8879;	⊯	nVDash
+&#x22b0;	&#8880;	⊰	prurel
+&#x22b2;	&#8882;	⊲	vltri, vartriangleleft, LeftTriangle
+&#x22b3;	&#8883;	⊳	vrtri, vartriangleright, RightTriangle;
+&#x22b4;	&#8884;	⊴	ltrie, trianglelefteq, LeftTriangleEqual
+&#x22b5;	&#8885;	⊵	rtrie, trianglerighteq, RightTriangleEqual
+&#x22b6;	&#8886;	⊶	origof
+&#x22b7;	&#8887;	⊷	imof
+&#x22b8;	&#8888;	⊸	mmap, multimap
+&#x22b9;	&#8889;	⊹	hercon
+&#x22ba;	&#8890;	⊺	intcal, intercal
+&#x22bb;	&#8891;	⊻	veebar
+&#x22bd;	&#8893;	⊽	barvee
+&#x22be;	&#8894;	⊾	angrtvb
+&#x22bf;	&#8895;	⊿	lrtri
+&#x22c0;	&#8896;	⋀	xwedge, Wedge, bigwedge
+&#x22c1;	&#8897;	⋁	xvee, Vee, bigvee
+&#x22c2;	&#8898;	⋂	xcap, Intersection, bigcap
+&#x22c3;	&#8899;	⋃	xcup, Union, bigcup
+&#x22c4;	&#8900;	⋄	diam, diamond, Diamond
+&#x22c5;	&#8901;	⋅	sdot
+&#x22c6;	&#8902;	⋆	sstarf, Star
+&#x22c7;	&#8903;	⋇	divonx, divideontimes
+&#x22c8;	&#8904;	⋈	bowtie
+&#x22c9;	&#8905;	⋉	ltimes
+&#x22ca;	&#8906;	⋊	rtimes
+&#x22cb;	&#8907;	⋋	lthree, leftthreetimes
+&#x22cc;	&#8908;	⋌	rthree, rightthreetimes
+&#x22cd;	&#8909;	⋍	bsime, backsimeq
+&#x22ce;	&#8910;	⋎	cuvee, curlyvee
+&#x22cf;	&#8911;	⋏	cuwed, curlywedge
+&#x22d0;	&#8912;	⋐	Sub, Subset
+&#x22d1;	&#8913;	⋑	Sup, Supset
+&#x22d2;	&#8914;	⋒	Cap
+&#x22d3;	&#8915;	⋓	Cup
+&#x22d4;	&#8916;	⋔	fork, pitchfork
+&#x22d5;	&#8917;	⋕	epar
+&#x22d6;	&#8918;	⋖	ltdot, lessdot
+&#x22d7;	&#8919;	⋗	gtdot, gtrdot
+&#x22d8;	&#8920;	⋘	Ll, lll
+&#x22d9;	&#8921;	⋙	Gg, ggg
+&#x22da;	&#8922;	⋚	leg, LessEqualGreater, lesseqgtr
+&#x22db;	&#8923;	⋛	gel, gtreqless, GreaterEqualLess
+&#x22de;	&#8926;	⋞	cuepr, curlyeqprec
+&#x22df;	&#8927;	⋟	cuesc, curlyeqsucc
+&#x22e0;	&#8928;	⋠	nprcue, NotPrecedesSlantEqual
+&#x22e1;	&#8929;	⋡	nsccue, NotSucceedsSlantEqual
+&#x22e2;	&#8930;	⋢	nsqsube, NotSquareSubsetEqual
+&#x22e3;	&#8931;	⋣	nsqsupe, NotSquareSupersetEqual
+&#x22e6;	&#8934;	⋦	lnsim
+&#x22e7;	&#8935;	⋧	gnsim
+&#x22e8;	&#8936;	⋨	prnsim, precnsim
+&#x22e9;	&#8937;	⋩	scnsim, succnsim
+&#x22ea;	&#8938;	⋪	nltri, ntriangleleft, NotLeftTriangle
+&#x22eb;	&#8939;	⋫	nrtri, ntriangleright, NotRightTriangle
+&#x22ec;	&#8940;	⋬	nltrie, ntrianglelefteq, NotLeftTriangleEqual
+&#x22ed;	&#8941;	⋭	nrtrie, ntrianglerighteq, NotRightTriangleEqual
+&#x22ee;	&#8942;	⋮	vellip
+&#x22ef;	&#8943;	⋯	ctdot
+&#x22f0;	&#8944;	⋰	utdot
+&#x22f1;	&#8945;	⋱	dtdot
+&#x22f2;	&#8946;	⋲	disin
+&#x22f3;	&#8947;	⋳	isinsv
+&#x22f4;	&#8948;	⋴	isins
+&#x22f5;	&#8949;	⋵	isindot
+&#x22f6;	&#8950;	⋶	notinvc
+&#x22f7;	&#8951;	⋷	notinvb
+&#x22f9;	&#8953;	⋹	isinE
+&#x22fa;	&#8954;	⋺	nisd
+&#x22fb;	&#8955;	⋻	xnis
+&#x22fc;	&#8956;	⋼	nis
+&#x22fd;	&#8957;	⋽	notnivc
+&#x22fe;	&#8958;	⋾	notnivb
+&#x2305;	&#8965;	⌅	barwed, barwedge
+&#x2306;	&#8966;	⌆	Barwed, doublebarwedge
+&#x2308;	&#8968;	⌈	lceil, LeftCeiling
+&#x2309;	&#8969;	⌉	rceil, RightCeiling
+&#x230a;	&#8970;	⌊	lfloor, LeftFloor
+&#x230b;	&#8971;	⌋	rfloor, RightFloor
+&#x230c;	&#8972;	⌌	drcrop
+&#x230d;	&#8973;	⌍	dlcrop
+&#x230e;	&#8974;	⌎	urcrop
+&#x230f;	&#8975;	⌏	ulcrop
+&#x2310;	&#8976;	⌐	bnot
+&#x2312;	&#8978;	⌒	profline
+&#x2313;	&#8979;	⌓	profsurf
+&#x2315;	&#8981;	⌕	telrec
+&#x2316;	&#8982;	⌖	target
+&#x231c;	&#8982;	⌜	ulcorn, ulcorner
+&#x231d;	&#8983;	⌝	urcorn, urcorner
+&#x231e;	&#8984;	⌞	dlcorn, dlcorner
+&#x231f;	&#8985;	⌟	drcorn, drcorner
+&#x2322;	&#8994;	⌢	frown, sfrown
+&#x2323;	&#8995;	⌣	smile, ssmile
+&#x232d;	&#9005;	⌭	cylcty
+&#x232e;	&#9006;	⌮	profalar
+&#x2336;	&#9014;	⌶	topbot
+&#x233d;	&#9021;	⌽	ovbar
+&#x233f;	&#9023;	⌿	solbar
+&#x237c;	&#9023;	⍼	angzarr
+&#x23b0;	&#9136;	⎰	lmoust, lmoustache
+&#x23b1;	&#9137;	⎱	rmoust, rmoustache
+&#x23b4;	&#9140;	⎴	tbrk, OverBracket
+&#x23b5;	&#9141;	⎵	bbrk, UnderBracket
+&#x23b6;	&#9142;	⎶	bbrktbrk
+&#x23dc;	&#9180;	⏜	OverParenthesis
+&#x23dd;	&#9181;	⏝	UnderParenthesis
+&#x23de;	&#9182;	⏞	OverBrace
+&#x23df;	&#9183;	⏟	UnderBrace
+&#x23e2;	&#9186;	⏢	trpezium
+&#x23e7;	&#9191;	⏧	elinters
+&#x2423;	&#9251;	␣	blank
+&#x24c5;	&#9413;	℗	circled latin capital letter P
+&#x24c8;	&#9416;	Ⓢ	oS, circledS
+&#x2500;	&#9472;	─	boxh, HorizontalLine
+&#x2502;	&#9474;	│	boxv
+&#x250c;	&#9484;	┌	boxdr
+&#x2510;	&#9488;	┐	boxdl
+&#x2514;	&#9492;	└	boxur
+&#x2518;	&#9496;	┘	boxul
+&#x251c;	&#9500;	├	boxvr
+&#x2524;	&#9508;	┤	boxvl
+&#x252c;	&#9516;	┬	boxhd
+&#x2534;	&#9524;	┴	boxhu
+&#x253c;	&#9532;	┼	boxvh
+&#x2550;	&#9552;	═	boxH
+&#x2551;	&#9553;	║	boxV
+&#x2552;	&#9554;	╒	boxdR
+&#x2553;	&#9555;	╓	boxDr
+&#x2554;	&#9556;	╔	boxDR
+&#x2555;	&#9557;	╕	boxdL
+&#x2556;	&#9558;	╖	boxDl
+&#x2557;	&#9559;	╗	boxDL
+&#x2558;	&#9560;	╘	boxuR
+&#x2559;	&#9561;	╙	boxUr
+&#x255a;	&#9562;	╚	boxUR
+&#x255b;	&#9563;	╛	boxuL
+&#x255c;	&#9564;	╜	boxUl
+&#x255d;	&#9565;	╝	boxUL
+&#x255e;	&#9566;	╞	boxvR
+&#x255f;	&#9567;	╟	boxVr
+&#x2560;	&#9568;	╠	boxVR
+&#x2561;	&#9569;	╡	boxvL
+&#x2562;	&#9570;	╢	boxVl
+&#x2563;	&#9571;	╣	boxVL
+&#x2564;	&#9572;	╤	boxHd
+&#x2565;	&#9573;	╥	boxhD
+&#x2566;	&#9574;	╦	boxHD
+&#x2567;	&#9575;	╧	boxHu
+&#x2568;	&#9576;	╨	boxhU
+&#x2569;	&#9577;	╩	boxHU
+&#x256a;	&#9578;	╪	boxvH
+&#x256b;	&#9579;	╫	boxVh
+&#x256c;	&#9580;	╬	boxVH
+&#x2580;	&#9600;	▀	uhblk
+&#x2584;	&#9604;	▄	lhblk
+&#x2588;	&#9608;	█	block
+&#x2591;	&#9617;	░	blk14
+&#x2592;	&#9618;	▒	blk12
+&#x2593;	&#9619;	▓	blk34
+&#x25a1;	&#9633;	□	white square
+&#x25aa;	&#9642;	▪	squf, squaref, blacksquare, FilledVerySmallSquare
+&#x25ab;	&#9643;	▫	EmptyVerySmallSquare
+&#x25ad;	&#9645;	▭	rect
+&#x25ae;	&#9646;	▮	marker
+&#x25b1;	&#9649;	▱	fltns
+&#x25b3;	&#9651;	△	xutri, bigtriangleup
+&#x25b4;	&#9652;	▴	utrif, blacktriangle
+&#x25b5;	&#9653;	▵	utri, triangle
+&#x25b8;	&#9656;	▸	rtrif, blacktriangleright
+&#x25b9;	&#9657;	▹	rtri, triangleright
+&#x25bd;	&#9661;	▽	xdtri, bigtriangledown
+&#x25be;	&#9662;	▾	dtrif, blacktriangledown
+&#x25bf;	&#9663;	▿	dtri, triangledown
+&#x25c2;	&#9666;	◂	ltrif, blacktriangleleft
+&#x25c3;	&#9667;	◃	ltri, triangleleft
+&#x25ca;	&#9674;	◊	loz, lozenge
+&#x25cb;	&#9675;	○	cir
+&#x25ec;	&#9708;	◬	tridot
+&#x25ef;	&#9711;	◯	xcirc, bigcirc
+&#x25f8;	&#9720;	◸	ultri
+&#x25f9;	&#9721;	◹	urtri
+&#x25fa;	&#9722;	◺	lltri
+&#x25fb;	&#9723;	◻	EmptySmallSquare
+&#x25fc;	&#9724;	◼	FilledSmallSquare
+&#x2605;	&#9733;	★	starf, bigstar
+&#x2606;	&#9734;	☆	star
+&#x260e;	&#9742;	☎	phone
+&#x2640;	&#9792;	♀	female
+&#x2642;	&#9794;	♂	male
+&#x2660;	&#9824;	♠	spades, spadesuit
+&#x2663;	&#9827;	♣	clubs, clubsuit
+&#x2665;	&#9829;	♥	hearts, heartsuit
+&#x2666;	&#9830;	♦	diams, diamondsuit
+&#x266a;	&#9834;	♪	sung
+&#x266d;	&#9837;	♭	flat
+&#x266e;	&#9838;	♮	natur, natural
+&#x266f;	&#9839;	♯	sharp
+&#x2713;	&#10003;	✓	check, checkmark
+&#x2717;	&#10007;	✗	cross
+&#x2720;	&#10016;	✠	malt, Maltese
+&#x2736;	&#10038;	✶	sext
+&#x2758;	&#10072;	❘	VerticalSeparator
+&#x2772;	&#10098;	❲	lbbrk
+&#x2773;	&#10099;	❳	rbbrk
+&#x27e6;	&#10214;	⟦	lobrk, LeftDoubleBracket
+&#x27e7;	&#10215;	⟧	robrk, RightDoubleBracket
+&#x27e8;	&#10216;	<	mathematical left angle bracket (oka: keyboard left bracket)
+&#x27e9;	&#10217;	>	mathematical right angle bracket (oka: keyboard right bracket)
+&#x27ea;	&#10218;	⟪	Lang
+&#x27eb;	&#10219;	⟫	Rang
+&#x27ec;	&#10220;	⟬	loang
+&#x27ed;	&#10221;	⟭	roang
+&#x27f5;	&#10229;	⟵	xlarr, longleftarrow, LongLeftArrow
+&#x27f6;	&#10230;	⟶	xrarr, longrightarrow, LongRightArrow
+&#x27f7;	&#10231;	⟷	xharr, longleftrightarrow, LongLeftRightArrow
+&#x27f8;	&#10232;	⟸	xlArr, Longleftarrow, DoubleLongLeftArrow
+&#x27f9;	&#10233;	⟹	xrArr, Longrightarrow, DoubleLongRightArrow
+&#x27fa;	&#10234;	⟺	xhArr, Longleftrightarrow, DoubleLongLeftRightArrow
+&#x27fc;	&#10236;	⟼	xmap, longmapsto
+&#x27ff;	&#10239;	⟿	dzigrarr
+&#x2902;	&#10498;	⤂	nvlArr
+&#x2903;	&#10499;	⤃	nvrArr
+&#x2904;	&#10500;	⤄	nvHArr
+&#x2905;	&#10501;	⤅	Map
+&#x290c;	&#10508;	⤌	lbarr
+&#x290d;	&#10509;	⤍	rbarr, bkarow
+&#x290e;	&#10510;	⤎	lBarr
+&#x290f;	&#10511;	⤏	rBarr, dbkarow
+&#x2910;	&#10512;	⤐	RBarr, drbkarow
+&#x2911;	&#10513;	⤑	DDotrahd
+&#x2912;	&#10514;	⤒	UpArrowBar
+&#x2913;	&#10515;	⤓	DownArrowBar
+&#x2916;	&#10518;	⤖	Rarrtl
+&#x2919;	&#10521;	⤙	latail
+&#x291a;	&#10522;	⤚	ratail
+&#x291b;	&#10523;	⤛	lAtail
+&#x291c;	&#10524;	⤜	rAtail
+&#x291d;	&#10525;	⤝	larrfs
+&#x291e;	&#10526;	⤞	rarrfs
+&#x291f;	&#10527;	⤟	larrbfs
+&#x2920;	&#10528;	⤠	rarrbfs
+&#x2923;	&#10531;	⤣	nwarhk
+&#x2924;	&#10532;	⤤	nearhk
+&#x2925;	&#10533;	⤥	searhk, hksearow
+&#x2926;	&#10534;	⤦	swarhk, hkswarow
+&#x2927;	&#10535;	⤧	nwnear
+&#x2928;	&#10536;	⤨	nesear, toea
+&#x2929;	&#10537;	⤩	seswar, tosa
+&#x292a;	&#10538;	⤪	swnwar
+&#x2933;	&#10547;	⤳	rarrc
+&#x2935;	&#10549;	⤵	cudarrr
+&#x2936;	&#10550;	⤶	ldca
+&#x2937;	&#10551;	⤷	rdca
+&#x2938;	&#10552;	⤸	cudarrl
+&#x2939;	&#10553;	⤹	larrpl
+&#x293c;	&#10556;	⤼	curarrm
+&#x293d;	&#10557;	⤽	cularrp
+&#x2945;	&#10565;	⥅	rarrpl
+&#x2948;	&#10568;	⥈	harrcir
+&#x2949;	&#10569;	⥉	Uarrocir
+&#x294a;	&#10570;	⥊	lurdshar
+&#x294b;	&#10571;	⥋	ldrushar
+&#x294e;	&#10574;	⥎	LeftRightVector
+&#x294f;	&#10575;	⥏	RightUpDownVector
+&#x2950;	&#10576;	⥐	DownLeftRightVector
+&#x2951;	&#10577;	⥑	LeftUpDownVector
+&#x2952;	&#10578;	⥒	LeftVectorBar
+&#x2953;	&#10579;	⥓	RightVectorBar
+&#x2954;	&#10580;	⥔	RightUpVectorBar
+&#x2955;	&#10581;	⥕	RightDownVectorBar
+&#x2956;	&#10582;	⥖	DownLeftVectorBar
+&#x2957;	&#10583;	⥗	DownRightVectorBar
+&#x2958;	&#10584;	⥘	LeftUpVectorBar
+&#x2959;	&#10585;	⥙	LeftDownVectorBar
+&#x295a;	&#10586;	⥚	LeftTeeVector
+&#x295b;	&#10587;	⥛	RightTeeVector
+&#x295c;	&#10588;	⥜	RightUpTeeVector
+&#x295d;	&#10589;	⥝	RightDownTeeVector
+&#x295e;	&#10590;	⥞	DownLeftTeeVector
+&#x295f;	&#10591;	⥟	DownRightTeeVector
+&#x2960;	&#10592;	⥠	LeftUpTeeVector
+&#x2961;	&#10593;	⥡	LeftDownTeeVector
+&#x2962;	&#10594;	⥢	lHar
+&#x2963;	&#10595;	⥣	uHar
+&#x2964;	&#10596;	⥤	rHar
+&#x2965;	&#10597;	⥥	dHar
+&#x2966;	&#10598;	⥦	luruhar
+&#x2967;	&#10599;	⥧	ldrdhar
+&#x2968;	&#10600;	⥨	ruluhar
+&#x2969;	&#10601;	⥩	rdldhar
+&#x296a;	&#10602;	⥪	lharul
+&#x296b;	&#10603;	⥫	llhard
+&#x296c;	&#10604;	⥬	rharul
+&#x296d;	&#10605;	⥫	lrhard
+&#x296e;	&#10606;	⥮	udhar, UpEquilibrium
+&#x296f;	&#10607;	⥯	duhar, ReverseUpEquilibrium
+&#x2970;	&#10608;	⥰	RoundImplies
+&#x2971;	&#10609;	⥱	erarr
+&#x2972;	&#10610;	⥲	simrarr
+&#x2973;	&#10611;	⥳	larrsim
+&#x2974;	&#10612;	⥴	rarrsim
+&#x2975;	&#10613;	⥵	rarrap
+&#x2976;	&#10614;	⥶	ltlarr
+&#x2978;	&#10616;	⥸	gtrarr
+&#x2979;	&#10617;	⥹	subrarr
+&#x297b;	&#10619;	⥻	suprarr
+&#x297c;	&#10620;	⥼	lfisht
+&#x297d;	&#10621;	⥽	rfisht
+&#x297e;	&#10622;	⥾	ufisht
+&#x297f;	&#10623;	⥿	dfisht
+&#x2985;	&#10629;	⦅	lopar
+&#x2986;	&#10630;	⦆	ropar
+&#x298b;	&#10635;	⦋	lbrke
+&#x298c;	&#10636;	⦌	rbrke
+&#x298d;	&#10637;	⦍	lbrkslu
+&#x298e;	&#10638;	⦎	rbrksld
+&#x298f;	&#10639;	⦏	lbrksld
+&#x2990;	&#10640;	⦐	rbrkslu
+&#x2991;	&#10641;	⦑	langd
+&#x2992;	&#10642;	⦒	rangd
+&#x2993;	&#10643;	⦓	lparlt
+&#x2994;	&#10644;	⦔	rpargt
+&#x2995;	&#10645;	⦕	gtlPar
+&#x2996;	&#10646;	⦖	ltrPar
+&#x299a;	&#10650;	⦚	vzigzag
+&#x299c;	&#10652;	⦜	vangrt
+&#x299d;	&#10653;	⦝	angrtvbd
+&#x29a4;	&#10660;	⦤	ange
+&#x29a5;	&#10661;	⦥	range
+&#x29a6;	&#10662;	⦦	dwangle
+&#x29a7;	&#10663;	⦧	uwangle
+&#x29a8;	&#10664;	⦨	angmsdaa
+&#x29a9;	&#10665;	⦩	angmsdab
+&#x29aa;	&#10666;	⦪	angmsdac
+&#x29ab;	&#10667;	⦫	angmsdad
+&#x29ac;	&#10668;	⦬	angmsdae
+&#x29ad;	&#10669;	⦭	angmsdaf
+&#x29ae;	&#10670;	⦮	angmsdag
+&#x29af;	&#10671;	⦯	angmsdah
+&#x29b0;	&#10672;	⦰	bemptyv
+&#x29b1;	&#10673;	⦱	demptyv
+&#x29b2;	&#10674;	⦲	cemptyv
+&#x29b3;	&#10675;	⦳	raemptyv
+&#x29b4;	&#10676;	⦳	laemptyv
+&#x29b5;	&#10677;	⦵	ohbar
+&#x29b6;	&#10678;	⦶	omid
+&#x29b7;	&#10679;	⦶	opar
+&#x29b9;	&#10681;	⦹	operp
+&#x29bb;	&#10683;	⦻	olcross
+&#x29bc;	&#10684;	⦼	odsold
+&#x29be;	&#10686;	⦾	olcir
+&#x29bf;	&#10687;	⦿	ofcir
+&#x29c0;	&#10688;	⧀	olt
+&#x29c1;	&#10689;	⧁	ogt
+&#x29c2;	&#10690;	⧂	cirscir
+&#x29c3;	&#10691;	⧃	cirE
+&#x29c4;	&#10692;	⧄	solb
+&#x29c5;	&#10693;	⧅	bsolb
+&#x29c9;	&#10697;	⧉	boxbox
+&#x29cd;	&#10701;	⧍	trisb
+&#x29ce;	&#10702;	⧎	rtriltri
+&#x29cf;	&#10703;	⧏	LeftTriangleBar
+&#x29d0;	&#10704;	⧐	RightTriangleBar
+&#x29da;	&#10714;	⧚	race
+&#x29dc;	&#10716;	⧜	iinfin
+&#x29dd;	&#10717;	⧝	infintie
+&#x29de;	&#10718;	⧞	nvinfin
+&#x29e3;	&#10723;	⧣	eparsl
+&#x29e4;	&#10724;	⧤	smeparsl
+&#x29e5;	&#10725;	⧥	eqvparsl
+&#x29eb;	&#10731;	⧫	lozf, blacklozenge
+&#x29f4;	&#10740;	⧴	RuleDelayed
+&#x29f6;	&#10742;	⧶	dsol
+&#x2a00;	&#10752;	⨀	xodot, bigodot
+&#x2a01;	&#10753;	⨁	xoplus, bigoplus
+&#x2a02;	&#10754;	⨂	xotime, bigotimes
+&#x2a04;	&#10756;	⨄	xuplus, biguplus
+&#x2a06;	&#10758;	⨆	xsqcup, bigsqcup
+&#x2a0c;	&#10764;	⨌	qint, iiiint
+&#x2a0d;	&#10765;	⨍	fpartint
+&#x2a10;	&#10768;	⨐	cirfnint
+&#x2a11;	&#10769;	⨑	awint
+&#x2a12;	&#10770;	⨒	rppolint
+&#x2a13;	&#10771;	⨓	scpolint
+&#x2a14;	&#10772;	⨔	npolint
+&#x2a15;	&#10773;	⨕	pointint
+&#x2a16;	&#10774;	⨖	quatint
+&#x2a17;	&#10775;	⨗	intlarhk
+&#x2a22;	&#10786;	⨢	pluscir
+&#x2a23;	&#10787;	⨣	plusacir
+&#x2a24;	&#10788;	⨤	simplus
+&#x2a25;	&#10789;	⨥	plusdu
+&#x2a26;	&#10790;	⨦	plussim
+&#x2a27;	&#10791;	⨧	plustwo
+&#x2a29;	&#10793;	⨩	mcomma
+&#x2a2a;	&#10794;	⨪	minusdu
+&#x2a2d;	&#10797;	⨭	loplus
+&#x2a2e;	&#10798;	⨮	roplus
+&#x2a2f;	&#10799;	⨯	Cross
+&#x2a30;	&#10800;	⨰	timesd
+&#x2a31;	&#10801;	⨱	timesbar
+&#x2a33;	&#10803;	⨳	smashp
+&#x2a34;	&#10804;	⨴	lotimes
+&#x2a35;	&#10805;	⨵	rotimes
+&#x2a36;	&#10806;	⨶	otimesas
+&#x2a37;	&#10807;	⨷	Otimes
+&#x2a38;	&#10808;	⨸	odiv
+&#x2a39;	&#10809;	⨹	triplus
+&#x2a3a;	&#10810;	⨺	triminus
+&#x2a3b;	&#10811;	⨻	tritime
+&#x2a3c;	&#10812;	⨼	iprod, intprod
+&#x2a3f;	&#10815;	⨿	amalg
+&#x2a40;	&#10816;	⩀	capdot
+&#x2a42;	&#10818;	⩂	ncup
+&#x2a43;	&#10819;	⩃	ncap
+&#x2a44;	&#10820;	⩄	capand
+&#x2a45;	&#10821;	⩅	cupor
+&#x2a46;	&#10822;	⩆	cupcap
+&#x2a47;	&#10823;	⩇	capcup
+&#x2a48;	&#10824;	⩈	cupbrcap
+&#x2a49;	&#10825;	⩉	capbrcup
+&#x2a4a;	&#10826;	⩊	cupcup
+&#x2a4b;	&#10827;	⩋	capcap
+&#x2a4c;	&#10828;	⩌	ccups
+&#x2a4d;	&#10829;	⩍	ccaps
+&#x2a50;	&#10832;	⩐	ccups
+&#x2a53;	&#10835;	⩓	And
+&#x2a54;	&#10836;	⩔	Or
+&#x2a55;	&#10837;	⩕	andand
+&#x2a56;	&#10838;	⩕	oror
+&#x2a57;	&#10839;	⩗	orslope
+&#x2a58;	&#10840;	⩘	andslope
+&#x2a5a;	&#10842;	⩚	andv
+&#x2a5b;	&#10843;	⩛	orv
+&#x2a5c;	&#10844;	⩜	andd
+&#x2a5d;	&#10845;	⩝	ord
+&#x2a5f;	&#10847;	⩟	wedbar
+&#x2a66;	&#10854;	⩦	sdote
+&#x2a6a;	&#10858;	⩪	simdot
+&#x2a6d;	&#10861;	⩭	congdot
+&#x2a6e;	&#10862;	⩮	easter
+&#x2a6f;	&#10863;	⩯	apacir
+&#x2a70;	&#10864;	⩰	apE
+&#x2a71;	&#10865;	⩱	eplus
+&#x2a72;	&#10866;	⩲	pluse
+&#x2a73;	&#10867;	⩳	Esim
+&#x2a74;	&#10868;	⩴	Colone
+&#x2a75;	&#10869;	⩵	Equal
+&#x2a77;	&#10871;	⩷	eDDot, ddotseq
+&#x2a78;	&#10872;	⩸	equivDD
+&#x2a79;	&#10873;	⩹	ltcir
+&#x2a7a;	&#10874;	⩺	gtcir
+&#xe5fb;	&#58875;	=	(oka: equal, double bond ?, C=O)
+&#xe5fc;	&#58876;	≡	(oka: identical to, triple bond ?, C≡N)
+&#xfb00;	&#64256;	ﬀ	fflig
+&#xfb01;	&#64257;	ﬁ	filig
+&#xfb02;	&#64258;	ﬂ	fllig
+&#xfb03;	&#64259;	ﬃ	ffilig
+&#xfb04;	&#64260;	ﬄ	ffllig
+&#x1d49c;	&#119964;	𝒜	Ascr
+&#x1d49e;	&#119966;	𝒞	Cscr
+&#x1d49f;	&#119967;	𝒟	Dscr
+&#x1d4a2;	&#119970;	𝒢	Gscr
+&#x1d4a5;	&#119973;	𝒥	Jscr
+&#x1d4a6;	&#119974;	𝒦	Kscr
+&#x1d4a9;	&#119977;	𝒩	Nscr
+&#x1d4aa;	&#119978;	𝒪	Oscr
+&#x1d4ab;	&#119979;	𝒫	Pscr
+&#x1d4ac;	&#119980;	𝒬	Qscr
+&#x1d4ae;	&#119982;	𝒮	Sscr
+&#x1d4af;	&#119983;	𝒯	Tscr
+&#x1d4b0;	&#119984;	𝒰	Uscr
+&#x1d4b1;	&#119985;	𝒱	Vscr
+&#x1d4b2;	&#119986;	𝒲	Wscr
+&#x1d4b3;	&#119987;	𝒳	Xscr
+&#x1d4b4;	&#119988;	𝒴	Yscr
+&#x1d4b5;	&#119989;	𝒵	Zscr
+&#x1d4b6;	&#119990;	𝒶	ascr
+&#x1d4b7;	&#119991;	𝒷	bscr
+&#x1d4b8;	&#119992;	𝒸	cscr
+&#x1d4b9;	&#119993;	𝒹	dscr
+&#x1d4bb;	&#119995;	𝒻	fscr
+&#x1d4bd;	&#119997;	𝒽	hscr
+&#x1d4be;	&#119998;	𝒾	iscr
+&#x1d4bf;	&#119999;	𝒿	jscr
+&#x1d4c0;	&#120000;	𝓀	kscr
+&#x1d4c1;	&#120001;	𝓁	lscr
+&#x1d4c2;	&#120002;	𝓂	mscr
+&#x1d4c3;	&#120003;	𝓃	nscr
+&#x1d4c5;	&#120005;	𝓅	pscr
+&#x1d4c6;	&#120006;	𝓆	qscr
+&#x1d4c7;	&#120007;	𝓇	rscr
+&#x1d4c8;	&#120008;	𝓈	sscr
+&#x1d4c9;	&#120009;	𝓉	tscr
+&#x1d4ca;	&#120010;	𝓊	uscr
+&#x1d4cb;	&#120011;	𝓋	vscr
+&#x1d4cc;	&#120012;	𝓌	wscr
+&#x1d4cd;	&#120013;	𝓍	xscr
+&#x1d4ce;	&#120014;	𝓎	yscr
+&#x1d4cf;	&#120015;	𝓏	zscr
+&#x1d504;	&#120068;	𝔄	Afr
+&#x1d505;	&#120069;	𝔅	Bfr
+&#x1d507;	&#120071;	𝔇	Dfr
+&#x1d508;	&#120072;	𝔈	Efr
+&#x1d509;	&#120073;	𝔉	Ffr
+&#x1d50a;	&#120074;	𝔊	Gfr
+&#x1d50d;	&#120077;	𝔍	Jfr
+&#x1d50e;	&#120078;	𝔎	Kfr
+&#x1d50f;	&#120079;	𝔏	Lfr
+&#x1d510;	&#120080;	𝔐	Mfr
+&#x1d511;	&#120081;	𝔑	Nfr
+&#x1d512;	&#120082;	𝔒	Ofr
+&#x1d513;	&#120083;	𝔓	Pfr
+&#x1d514;	&#120084;	𝔔	Qfr
+&#x1d516;	&#120086;	𝔖	Sfr
+&#x1d517;	&#120087;	𝔗	Tfr
+&#x1d518;	&#120088;	𝔘	Ufr
+&#x1d519;	&#120089;	𝔙	Vfr
+&#x1d51a;	&#120090;	𝔚	Wfr
+&#x1d51b;	&#120091;	𝔛	Xfr
+&#x1d51c;	&#120092;	𝔜	Yfr
+&#x1d51e;	&#120094;	𝔞	afr
+&#x1d51f;	&#120095;	𝔟	bfr
+&#x1d520;	&#120096;	𝔠	cfr
+&#x1d521;	&#120097;	𝔡	dfr
+&#x1d522;	&#120098;	𝔢	efr
+&#x1d523;	&#120099;	𝔣	ffr
+&#x1d524;	&#120100;	𝔤	gfr
+&#x1d525;	&#120101;	𝔥	hfr
+&#x1d526;	&#120102;	𝔦	ifr
+&#x1d527;	&#120103;	𝔧	jfr
+&#x1d528;	&#120104;	𝔨	kfr
+&#x1d529;	&#120105;	𝔩	lfr
+&#x1d52a;	&#120106;	𝔪	mfr
+&#x1d52b;	&#120107;	𝔫	nfr
+&#x1d52c;	&#120108;	𝔬	ofr
+&#x1d52d;	&#120109;	𝔭	pfr
+&#x1d52e;	&#120110;	𝔮	qfr
+&#x1d52f;	&#120111;	𝔯	rfr
+&#x1d530;	&#120112;	𝔰	sfr
+&#x1d531;	&#120113;	𝔱	tfr
+&#x1d532;	&#120114;	𝔲	ufr
+&#x1d533;	&#120115;	𝔳	vfr
+&#x1d534;	&#120116;	𝔴	wfr
+&#x1d535;	&#120117;	𝔵	xfr
+&#x1d536;	&#120118;	𝔶	yfr
+&#x1d537;	&#120119;	𝔷	zfr
+&#x1d538;	&#120120;	𝔸	Aopf
+&#x1d539;	&#120121;	𝔹	Bopf
+&#x1d53b;	&#120123;	𝔻	Dopf
+&#x1d53c;	&#120124;	𝔼	Eopf
+&#x1d53d;	&#120125;	𝔽	Fopf
+&#x1d53e;	&#120126;	𝔾	Gopf
+&#x1d540;	&#120128;	𝕀	Iopf
+&#x1d541;	&#120129;	𝕁	Jopf
+&#x1d542;	&#120130;	𝕂	Kopf
+&#x1d543;	&#120131;	𝕃	Lopf
+&#x1d544;	&#120132;	𝕄	Mopf
+&#x1d546;	&#120134;	𝕆	Oopf
+&#x1d54a;	&#120138;	𝕊	Sopf
+&#x1d54b;	&#120139;	𝕋	Topf
+&#x1d54c;	&#120140;	𝕌	Uopf
+&#x1d54d;	&#120141;	𝕍	Vopf
+&#x1d54e;	&#120142;	𝕎	Wopf
+&#x1d54f;	&#120143;	𝕏	Xopf
+&#x1d550;	&#120144;	𝕐	Yopf
+&#x1d552;	&#120146;	𝕒	aopf
+&#x1d553;	&#120147;	𝕓	bopf
+&#x1d554;	&#120148;	𝕔	copf
+&#x1d555;	&#120149;	𝕕	dopf
+&#x1d556;	&#120150;	𝕖	eopf
+&#x1d557;	&#120151;	𝕗	fopf
+&#x1d558;	&#120152;	𝕘	gopf
+&#x1d559;	&#120153;	𝕙	hopf
+&#x1d55a;	&#120154;	𝕚	iopf
+&#x1d55b;	&#120155;	𝕛	jopf
+&#x1d55c;	&#120156;	𝕜	kopf
+&#x1d55d;	&#120157;	𝕝	lopf
+&#x1d55e;	&#120158;	𝕞	mopf
+&#x1d55f;	&#120159;	𝕟	nopf
+&#x1d560;	&#120160;	𝕠	oopf
+&#x1d561;	&#120161;	𝕡	popf
+&#x1d562;	&#120162;	𝕢	qopf
+&#x1d563;	&#120163;	𝕣	ropf
+&#x1d564;	&#120164;	𝕤	sopf
+&#x1d565;	&#120165;	𝕥	topf
+&#x1d566;	&#120166;	𝕦	uopf
+&#x1d567;	&#120167;	𝕧	vopf
+&#x1d568;	&#120168;	𝕨	wopf
+&#x1d569;	&#120169;	𝕩	xopf
+&#x1d56a;	&#120170;	𝕪	yopf
+&#x1d56b;	&#120171;	𝕫	zopf
