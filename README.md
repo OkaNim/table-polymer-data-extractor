@@ -22,3 +22,6 @@ python 152_05_table-data-extract_g_211224.py [input dir (including all.dat & .po
 <br>
 
 
+***<br>
+It is necessary to locate all files in the src folder in the same folder.<br>
+***<br>
