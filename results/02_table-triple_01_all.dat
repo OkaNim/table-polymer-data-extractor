@@ -1,0 +1,95 @@
+DOI_test	Table 1	_	((supple))thead=2
+DOI_test	Table 1	_	((supple))(Caption) Table for extraction test.
+DOI_test	Table 1	_	((supple))(Footnote) This is a table footote.
+DOI_test	Table 1	1, 1	((supple))non
+DOI_test	Table 1	2, 1	((supple))non
+DOI_test	Table 1	3, 1	poly(1)
+DOI_test	Table 1	1, 2	Tg (°C)
+DOI_test	Table 1	3, 2	100
+DOI_test	Table 1	3, 1	poly(1)
+DOI_test	Table 1	1, 3	Tm (°C)
+DOI_test	Table 1	3, 3	200
+DOI_test	Table 1	3, 1	poly(1)
+DOI_test	Table 1	1, 4	Td (°C)
+DOI_test	Table 1	3, 4	300
+DOI_test	Table 1	4, 1	poly(2)
+DOI_test	Table 1	1, 2	Tg (°C)
+DOI_test	Table 1	4, 2	110
+DOI_test	Table 1	4, 1	poly(2)
+DOI_test	Table 1	1, 3	Tm (°C)
+DOI_test	Table 1	4, 3	210
+DOI_test	Table 1	4, 1	poly(2)
+DOI_test	Table 1	1, 4	Td (°C)
+DOI_test	Table 1	4, 4	310
+DOI_test	Table 1	5, 1	poly(3)
+DOI_test	Table 1	1, 2	Tg (°C)
+DOI_test	Table 1	5, 2	120
+DOI_test	Table 1	5, 1	poly(3)
+DOI_test	Table 1	1, 3	Tm (°C)
+DOI_test	Table 1	5, 3	220
+DOI_test	Table 1	5, 1	poly(3)
+DOI_test	Table 1	1, 4	Td (°C)
+DOI_test	Table 1	5, 4	330
+DOI_test	Table 1	3, 2	100
+DOI_test	Table 1	1, 3	Tm (°C)
+DOI_test	Table 1	3, 3	200
+DOI_test	Table 1	3, 2	100
+DOI_test	Table 1	1, 4	Td (°C)
+DOI_test	Table 1	3, 4	300
+DOI_test	Table 1	4, 2	110
+DOI_test	Table 1	1, 3	Tm (°C)
+DOI_test	Table 1	4, 3	210
+DOI_test	Table 1	4, 2	110
+DOI_test	Table 1	1, 4	Td (°C)
+DOI_test	Table 1	4, 4	310
+DOI_test	Table 1	5, 2	120
+DOI_test	Table 1	1, 3	Tm (°C)
+DOI_test	Table 1	5, 3	220
+DOI_test	Table 1	5, 2	120
+DOI_test	Table 1	1, 4	Td (°C)
+DOI_test	Table 1	5, 4	330
+DOI_test	Table 1	3, 1	poly(1)
+DOI_test	Table 1	2, 2	DSC
+DOI_test	Table 1	3, 2	100
+DOI_test	Table 1	3, 1	poly(1)
+DOI_test	Table 1	2, 3	DSC
+DOI_test	Table 1	3, 3	200
+DOI_test	Table 1	3, 1	poly(1)
+DOI_test	Table 1	2, 4	TGA
+DOI_test	Table 1	3, 4	300
+DOI_test	Table 1	4, 1	poly(2)
+DOI_test	Table 1	2, 2	DSC
+DOI_test	Table 1	4, 2	110
+DOI_test	Table 1	4, 1	poly(2)
+DOI_test	Table 1	2, 3	DSC
+DOI_test	Table 1	4, 3	210
+DOI_test	Table 1	4, 1	poly(2)
+DOI_test	Table 1	2, 4	TGA
+DOI_test	Table 1	4, 4	310
+DOI_test	Table 1	5, 1	poly(3)
+DOI_test	Table 1	2, 2	DSC
+DOI_test	Table 1	5, 2	120
+DOI_test	Table 1	5, 1	poly(3)
+DOI_test	Table 1	2, 3	DSC
+DOI_test	Table 1	5, 3	220
+DOI_test	Table 1	5, 1	poly(3)
+DOI_test	Table 1	2, 4	TGA
+DOI_test	Table 1	5, 4	330
+DOI_test	Table 1	3, 2	100
+DOI_test	Table 1	2, 3	DSC
+DOI_test	Table 1	3, 3	200
+DOI_test	Table 1	3, 2	100
+DOI_test	Table 1	2, 4	TGA
+DOI_test	Table 1	3, 4	300
+DOI_test	Table 1	4, 2	110
+DOI_test	Table 1	2, 3	DSC
+DOI_test	Table 1	4, 3	210
+DOI_test	Table 1	4, 2	110
+DOI_test	Table 1	2, 4	TGA
+DOI_test	Table 1	4, 4	310
+DOI_test	Table 1	5, 2	120
+DOI_test	Table 1	2, 3	DSC
+DOI_test	Table 1	5, 3	220
+DOI_test	Table 1	5, 2	120
+DOI_test	Table 1	2, 4	TGA
+DOI_test	Table 1	5, 4	330

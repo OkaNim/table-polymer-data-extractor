@@ -1,0 +1,9 @@
+thead=2, multi_col=0, multi_row=0, merged=0
+Table 1
+Table for extraction test.
+non	Tg (°C)	Tm (°C)	Td (°C)
+non	DSC	DSC	TGA
+poly(1)	100	200	300
+poly(2)	110	210	310
+poly(3)	120	220	330
+(Footnote) This is a table footote.

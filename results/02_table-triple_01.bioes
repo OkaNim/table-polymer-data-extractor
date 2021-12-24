@@ -1,0 +1,90 @@
+poly(1)
+Tg (°C)
+100
+poly(1)
+Tm (°C)
+200
+poly(1)
+Td (°C)
+300
+poly(2)
+Tg (°C)
+110
+poly(2)
+Tm (°C)
+210
+poly(2)
+Td (°C)
+310
+poly(3)
+Tg (°C)
+120
+poly(3)
+Tm (°C)
+220
+poly(3)
+Td (°C)
+330
+100
+Tm (°C)
+200
+100
+Td (°C)
+300
+110
+Tm (°C)
+210
+110
+Td (°C)
+310
+120
+Tm (°C)
+220
+120
+Td (°C)
+330
+poly(1)
+DSC
+100
+poly(1)
+DSC
+200
+poly(1)
+TGA
+300
+poly(2)
+DSC
+110
+poly(2)
+DSC
+210
+poly(2)
+TGA
+310
+poly(3)
+DSC
+120
+poly(3)
+DSC
+220
+poly(3)
+TGA
+330
+100
+DSC
+200
+100
+TGA
+300
+110
+DSC
+210
+110
+TGA
+310
+120
+DSC
+220
+120
+TGA
+330

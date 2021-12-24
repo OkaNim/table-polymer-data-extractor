@@ -1,0 +1,5 @@
+no_paper = 1,  no_dat = 3
+file-name	tlabel	polymer-name	prop-specifier	value	property	cell-address	no-thead	related-tcd	caption	footnote
+DOI_test	Table 1	poly(1)	Tg (°C)	100	Tg	3, 1 / 1, 2 / 3, 2	thead=2	(1, 1)non / (2, 1)non / (2, 2)DSC	(Caption) Table for extraction test.	(Footnote) This is a table footote.
+DOI_test	Table 1	poly(2)	Tg (°C)	110	Tg	4, 1 / 1, 2 / 4, 2	thead=2	(1, 1)non / (2, 1)non / (2, 2)DSC	(Caption) Table for extraction test.	(Footnote) This is a table footote.
+DOI_test	Table 1	poly(3)	Tg (°C)	120	Tg	5, 1 / 1, 2 / 5, 2	thead=2	(1, 1)non / (2, 1)non / (2, 2)DSC	(Caption) Table for extraction test.	(Footnote) This is a table footote.
