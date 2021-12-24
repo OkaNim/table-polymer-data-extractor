@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ce:floats>
+<ce:table>
+<label>
+Table 1
+</label>
+<ce:caption id="12345">
+<p>
+Table for extraction test.
+</p>
+</ce:caption>
+</caption>
+<tgroup cols="4">
+<thead>
+<row>
+<entry/>
+<entry>
+Tg (°C)
+</entry>
+<entry>
+Tm (°C)
+</entry>
+<entry>
+Td (°C)
+</entry>
+</row>
+<row>
+<entry/>
+<entry>
+DSC
+</entry>
+<entry>
+DSC
+</entry>
+<entry>
+TGA
+</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>
+poly(1)
+</entry>
+<entry>
+100
+</entry>
+<entry>
+200
+</entry>
+<entry>
+300
+</entry>
+</row>
+<row>
+<entry>
+poly(2)
+</entry>
+<entry>
+110
+</entry>
+<entry>
+210
+</entry>
+<entry>
+310
+</entry>
+</row>
+<row>
+<entry>
+poly(3)
+</entry>
+<entry>
+120
+</entry>
+<entry>
+220
+</entry>
+<entry>
+330
+</entry>
+</row>
+</tbody>
+</tgroup>
+<ce:table-footnote id="12345">
+<ce:note-para id="p12345">
+This is a table footote.
+</ce:note-para>
+</ce:table-footnote>
+</ce:table>
+</ce:floats>
