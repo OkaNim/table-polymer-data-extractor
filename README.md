@@ -1,4 +1,6 @@
 # table-polymer-data-extractor
+2021/12/24<br>
+The programs were modified to extract the additional data of the table caption, footnote, and related table cell data.<br>
 
 
 ## Requirements
